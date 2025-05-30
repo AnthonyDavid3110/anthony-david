@@ -35,3 +35,4 @@ defaultContentLanguageInSubdir = true  # important pour URL type /fr/, /en/
 
 [params]
   homeInfoParams = false
+  env: production
