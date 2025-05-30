@@ -1,4 +1,20 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'PaperMod'
+baseURL = "https://ton-nom-de-domaine.com/"
+defaultContentLanguage = "fr"
+languageCode = "fr-fr"
+title = "Anthony David"
+theme = "PaperMod"
+defaultContentLanguageInSubdir = true  # important pour URL type /fr/, /en/
+
+[languages]
+
+[languages.fr]
+  languageName = "Français"
+  weight = 1
+  title = "Anthony David"
+  contentDir = "content/fr"
+
+[languages.en]
+  languageName = "English"
+  weight = 2
+  title = "Anthony David"
+  contentDir = "content/en"

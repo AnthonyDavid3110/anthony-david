@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Anthony David</title>
+    <link>http://localhost:1313/fr/</link>
+    <description>Recent content on Anthony David</description>
     <generator>Hugo -- 0.147.6</generator>
-    <language>en-us</language>
+    <language>fr</language>
     <lastBuildDate>Thu, 29 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>À propos de moi</title>
       <link>http://localhost:1313/fr/about/</link>
@@ -56,13 +56,6 @@
       <description>&lt;p&gt;📧 &lt;strong&gt;Email&lt;/strong&gt; : &lt;a href=&#34;mailto:anthony.david@example.com&#34;&gt;anthony.david@example.com&lt;/a&gt;&lt;br&gt;
 🔗 &lt;strong&gt;LinkedIn&lt;/strong&gt; : &lt;a href=&#34;https://www.linkedin.com/in/anthony-david&#34;&gt;linkedin.com/in/anthony-david&lt;/a&gt;&lt;br&gt;
 📄 &lt;strong&gt;CV PDF&lt;/strong&gt; : &lt;a href=&#34;files/Anthony-David-CV.pdf&#34;&gt;Anthony-David-CV.pdf&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Home_en</title>
-      <link>http://localhost:1313/en/home_en/</link>
-      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/home_en/</guid>
-      <description>&lt;h3 id=&#34;page-daccueil-du-site-en-anglais&#34;&gt;Page d&amp;rsquo;accueil du site en anglais&lt;/h3&gt;</description>
     </item>
   </channel>
 </rss>
