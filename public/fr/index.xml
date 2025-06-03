@@ -5,7 +5,7 @@
     <link>http://localhost:1313/fr/</link>
     <description>Recent content in Bienvenue on Anthony David</description>
     <generator>Hugo -- 0.147.6</generator>
-    <language>fr</language>
+    <language>fr-FR</language>
     <lastBuildDate>Thu, 29 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -18,11 +18,11 @@
 &lt;p&gt;Avec une formation en ingénierie informatique et plusieurs expériences dans des environnements exigeants, je m’oriente aujourd’hui vers un poste en &lt;strong&gt;sécurité informatique&lt;/strong&gt;, &lt;strong&gt;SIEM engineering&lt;/strong&gt;, ou &lt;strong&gt;Data Protection Officer (DPO)&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Je me distingue par :&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Ma rigueur et mon sens de l’analyse&lt;/li&gt;
-&lt;li&gt;Mon engagement pour l&amp;rsquo;éthique numérique&lt;/li&gt;
-&lt;li&gt;Ma capacité à apprendre vite et m’adapter&lt;/li&gt;
+&lt;li&gt;🎯 Ma rigueur et mon sens de l’analyse&lt;/li&gt;
+&lt;li&gt;🤝 Mon engagement pour l&amp;rsquo;éthique numérique&lt;/li&gt;
+&lt;li&gt;🚀 Ma capacité à apprendre vite et à m’adapter&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;🔍 Je suis actuellement à la recherche d’un stage ou poste dans la cybersécurité en Suisse romande.&lt;/p&gt;</description>
+&lt;p&gt;J’ai eu l’occasion de travailler sur des projets variés allant de l’analyse de logs SIEM, à la conformité RGPD, en passant par le développement d’outils sécurisés en Python.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Compétences</title>
@@ -51,11 +51,16 @@
     <item>
       <title>Contact</title>
       <link>http://localhost:1313/fr/contact/</link>
-      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/fr/contact/</guid>
-      <description>&lt;p&gt;📧 &lt;strong&gt;Email&lt;/strong&gt; : &lt;a href=&#34;mailto:anthony.david@example.com&#34;&gt;anthony.david@example.com&lt;/a&gt;&lt;br&gt;
-🔗 &lt;strong&gt;LinkedIn&lt;/strong&gt; : &lt;a href=&#34;https://www.linkedin.com/in/anthony-david&#34;&gt;linkedin.com/in/anthony-david&lt;/a&gt;&lt;br&gt;
-📄 &lt;strong&gt;CV PDF&lt;/strong&gt; : &lt;a href=&#34;files/Anthony-David-CV.pdf&#34;&gt;Anthony-David-CV.pdf&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;N&amp;rsquo;hésitez pas à me contacter pour discuter de mes projets, de mes compétences ou de toute opportunité professionnelle en cybersécurité.&lt;/p&gt;
+&lt;h3 id=&#34;informations-de-contact&#34;&gt;Informations de contact&lt;/h3&gt;
+&lt;p&gt;📧 &lt;strong&gt;Email&lt;/strong&gt; : &lt;a href=&#34;mailto:info@anthonydavid.ch&#34;&gt;info@anthonydavid.ch&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;📱 &lt;strong&gt;Téléphone&lt;/strong&gt; : +41 79 387 93 27&lt;/p&gt;
+&lt;h3 id=&#34;réseaux-professionnels&#34;&gt;Réseaux professionnels&lt;/h3&gt;
+&lt;p&gt;🔗 &lt;strong&gt;LinkedIn&lt;/strong&gt; : &lt;a href=&#34;https://www.linkedin.com/in/anthonydavid1462/&#34;&gt;Vers mon profil LinkedIn (anthonydavid1462)&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;documents-utiles&#34;&gt;Documents utiles&lt;/h3&gt;
+&lt;p&gt;📄 &lt;strong&gt;Télécharger mon CV au format PDF&lt;/strong&gt; : &lt;a href=&#34;http://localhost:1313/files/Anthony-David-CV.pdf&#34;&gt;Télécharger le CV&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

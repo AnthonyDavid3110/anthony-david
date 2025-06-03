@@ -3,7 +3,7 @@ languageCode: fr
 title: Anthony David
 theme: PaperMod
 defaultContentLanguage: fr
-defaultContentLanguageInSubdir: true
+defaultContentLanguageInSubdir: false
 
 params:
   env: production
@@ -12,6 +12,8 @@ params:
   ShowReadingTime: false
   ShowCodeCopyButtons: true
   ShowToc: false
+  ShowLanguageSwitcher: true
+  displayFullLangName: true
 
   assets:
     favicon: "/favicon.ico"
@@ -47,24 +49,82 @@ params:
 languages:
   fr:
     languageName: "🇫🇷"
+    languageCode: "fr-FR"
+    title: "Anthony David"
     weight: 1
-    contentDir: content/fr
+    contentDir: "content/fr"
+    params:
+      profileMode:
+        enabled: true
+        title: "Anthony David"
+        subtitle: "Ingénieur en cybersécurité"
+        imageUrl: "images/anthony_david.jpg"
+        imageTitle: "Portrait d'Anthony David"
+        imageWidth: 200
+        imageHeight: 200
+        buttons:
+          - name: "Compétences"
+            url: "/skills"
+          - name: "Projets"
+            url: "/projects"
+          - name: "Extra-professionnel"
+            url: "http://www.ecmelodia.ch"
+          - name: "Me contacter"
+            url: "/contact"
+    menu:
+      main:
+        - name: "À propos"
+          url: "/about/"
+          weight: 1
+        - name: "Compétences"
+          url: "/skills/"
+          weight: 2
+        - name: "Projets"
+          url: "/projects/"
+          weight: 3
+        - name: "Contact"
+          url: "/contact/"
+          weight: 4
+
   en:
     languageName: "🇬🇧"
+    languageCode: "en-US"
+    title: "Anthony David"
     weight: 2
-    contentDir: content/en
+    contentDir: "content/en"
+    params:
+      profileMode:
+        enabled: true
+        title: "Anthony David"
+        subtitle: "Cybersecurity Engineer"
+        imageUrl: "images/anthony_david.jpg" # tu peux adapter l’image si besoin
+        imageTitle: "Portrait of Anthony David"
+        imageWidth: 200
+        imageHeight: 200
+        buttons:
+          - name: "Skills"
+            url: "/skills"
+          - name: "Projects"
+            url: "/projects"
+          - name: "Extra-professional"
+            url: "http://www.ecmelodia.ch"
+          - name: "Contact me"
+            url: "/contact"
+    menu:
+      main:
+        - name: "About"
+          url: "/about/"
+          weight: 1
+        - name: "Skills"
+          url: "/skills/"
+          weight: 2
+        - name: "Projects"
+          url: "/projects/"
+          weight: 3
+        - name: "Contact"
+          url: "/contact/"
+          weight: 4
 
-menu:
-  main:
-    - name: "À propos"
-      url: "/fr/about/"
-      weight: 1
-    - name: "Compétences"
-      url: "/fr/skills/"
-      weight: 2
-    - name: "Projets"
-      url: "/fr/projects/"
-      weight: 3
-    - name: "Contact"
-      url: "/fr/contact/"
-      weight: 4
+
+ignoreLogs:
+  - warning-goldmark-raw-html
