@@ -1,0 +1,70 @@
+baseURL: "https://anthonydavid.ch/"
+languageCode: fr
+title: Anthony David
+theme: PaperMod
+defaultContentLanguage: fr
+defaultContentLanguageInSubdir: true
+
+params:
+  env: production
+  homeInfoParams: false
+  ShowShareButtons: false
+  ShowReadingTime: false
+  ShowCodeCopyButtons: true
+  ShowToc: false
+
+  assets:
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
+    safari_pinned_tab: "/safari-pinned-tab.svg"
+
+  profileMode:
+    enabled: true
+    title: "Anthony David"
+    subtitle: "Ingénieur en cybersécurité"
+    imageUrl: "images/anthony_david.jpg"
+    imageTitle: "Portrait d'Anthony David"
+    imageWidth: 200
+    imageHeight: 200
+    buttons:
+      - name: "Compétences"
+        url: "/skills"
+      - name: "Projets"
+        url: "/projects"
+      - name: "Extra-professionnel"
+        url: "http://www.ecmelodia.ch"
+      - name: "Me contacter"
+        url: "/contact"
+
+  socialIcons:
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/anthonydavid1462/"
+    - name: "Github"
+      url: "https://github.com/AnthonyDavid3110"
+
+languages:
+  fr:
+    languageName: "🇫🇷"
+    weight: 1
+    contentDir: content/fr
+  en:
+    languageName: "🇬🇧"
+    weight: 2
+    contentDir: content/en
+
+menu:
+  main:
+    - name: "À propos"
+      url: "/fr/about/"
+      weight: 1
+    - name: "Compétences"
+      url: "/fr/skills/"
+      weight: 2
+    - name: "Projets"
+      url: "/fr/projects/"
+      weight: 3
+    - name: "Contact"
+      url: "/fr/contact/"
+      weight: 4
