@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Bienvenue on Anthony David</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/anthony-david/</link>
     <description>Recent content in Bienvenue on Anthony David</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>fr-FR</language>
     <lastBuildDate>Thu, 29 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/anthony-david/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>À propos de moi</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://localhost:1313/anthony-david/about/</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://localhost:1313/anthony-david/about/</guid>
       <description>&lt;p&gt;👋 Bonjour,&lt;/p&gt;
 &lt;p&gt;Je suis &lt;strong&gt;Anthony David&lt;/strong&gt;, passionné par la &lt;strong&gt;cybersécurité&lt;/strong&gt;, la &lt;strong&gt;protection des données&lt;/strong&gt; et le &lt;strong&gt;développement de solutions fiables&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Avec une formation en ingénierie informatique et plusieurs expériences dans des environnements exigeants, je m’oriente aujourd’hui vers un poste en &lt;strong&gt;sécurité informatique&lt;/strong&gt;, &lt;strong&gt;SIEM engineering&lt;/strong&gt;, ou &lt;strong&gt;Data Protection Officer (DPO)&lt;/strong&gt;.&lt;/p&gt;
@@ -26,9 +26,9 @@
     </item>
     <item>
       <title>Compétences</title>
-      <link>http://localhost:1313/skills/</link>
+      <link>http://localhost:1313/anthony-david/skills/</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/skills/</guid>
+      <guid>http://localhost:1313/anthony-david/skills/</guid>
       <description>&lt;h3 id=&#34;-cybersécurité&#34;&gt;🛡️ Cybersécurité&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;SIEM (Splunk, ELK)&lt;/li&gt;
@@ -50,9 +50,9 @@
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/fr/contact/</link>
+      <link>http://localhost:1313/anthony-david/fr/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/contact/</guid>
+      <guid>http://localhost:1313/anthony-david/fr/contact/</guid>
       <description>&lt;p&gt;N&amp;rsquo;hésitez pas à me contacter pour discuter de mes projets, de mes compétences ou de toute opportunité professionnelle en cybersécurité.&lt;/p&gt;
 &lt;h3 id=&#34;informations-de-contact&#34;&gt;Informations de contact&lt;/h3&gt;
 &lt;p&gt;📧 &lt;strong&gt;Email&lt;/strong&gt; : &lt;a href=&#34;mailto:info@anthonydavid.ch&#34;&gt;info@anthonydavid.ch&lt;/a&gt;&lt;/p&gt;
@@ -60,7 +60,7 @@
 &lt;h3 id=&#34;réseaux-professionnels&#34;&gt;Réseaux professionnels&lt;/h3&gt;
 &lt;p&gt;🔗 &lt;strong&gt;LinkedIn&lt;/strong&gt; : &lt;a href=&#34;https://www.linkedin.com/in/anthonydavid1462/&#34;&gt;Vers mon profil LinkedIn (anthonydavid1462)&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;documents-utiles&#34;&gt;Documents utiles&lt;/h3&gt;
-&lt;p&gt;📄 &lt;strong&gt;Télécharger mon CV au format PDF&lt;/strong&gt; : &lt;a href=&#34;http://localhost:1313/files/Anthony-David-CV.pdf&#34;&gt;Télécharger le CV&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;📄 &lt;strong&gt;Télécharger mon CV au format PDF&lt;/strong&gt; : &lt;a href=&#34;http://localhost:1313/anthony-david/files/Anthony-David-CV.pdf&#34;&gt;Télécharger le CV&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
