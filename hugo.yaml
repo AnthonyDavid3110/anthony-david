@@ -1,10 +1,11 @@
-baseURL: "http://anthonydavid.ch"
+baseURL: "https://anthonydavid3110.github.io/anthony-david"
 languageCode: fr
 title: Anthony David
 theme: PaperMod
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
 
+# Configuration globale du thème
 params:
   env: production
   homeInfoParams: false
@@ -14,20 +15,16 @@ params:
   ShowToc: false
   ShowLanguageSwitcher: true
   displayFullLangName: true
-  canonifyURLs: true
-  relativeURLs: false
-
-caches:
-  images:
-    dir: :cacheDir/images
-
+  
+  # Favicons (dans params, pas dans caches)
   assets:
     favicon: "/favicon.ico"
     favicon16x16: "/favicon-16x16.png"
     favicon32x32: "/favicon-32x32.png"
     apple_touch_icon: "/apple-touch-icon.png"
     safari_pinned_tab: "/safari-pinned-tab.svg"
-
+  
+  # Profile mode global (dans params, pas dans caches)
   profileMode:
     enabled: true
     title: "Anthony David"
@@ -45,13 +42,22 @@ caches:
         url: "http://www.ecmelodia.ch"
       - name: "Me contacter"
         url: "/contact"
-
+  
+  # Icônes sociales
   socialIcons:
     - name: "LinkedIn"
       url: "https://www.linkedin.com/in/anthonydavid1462/"
     - name: "Github"
       url: "https://github.com/AnthonyDavid3110"
 
+# Configuration du cache (optionnel, peut être supprimé si pas nécessaire)
+caches:
+  images:
+    dir: ":cacheDir/images"
+  assets:
+    dir: ":cacheDir/assets"
+
+# Configuration des langues
 languages:
   fr:
     languageName: "🇫🇷"
@@ -70,28 +76,28 @@ languages:
         imageHeight: 200
         buttons:
           - name: "Compétences"
-            url: "/skills"
+            url: "/fr/skills"
           - name: "Projets"
-            url: "/projects"
+            url: "/fr/projects"
           - name: "Extra-professionnel"
             url: "http://www.ecmelodia.ch"
           - name: "Me contacter"
-            url: "/contact"
+            url: "/fr/contact"
     menu:
       main:
         - name: "À propos"
-          url: "/about/"
+          url: "/fr/about/"
           weight: 1
         - name: "Compétences"
-          url: "/skills/"
+          url: "/fr/skills/"
           weight: 2
         - name: "Projets"
-          url: "/projects/"
+          url: "/fr/projects/"
           weight: 3
         - name: "Contact"
-          url: "/contact/"
+          url: "/fr/contact/"
           weight: 4
-
+  
   en:
     languageName: "🇬🇧"
     languageCode: "en-US"
@@ -103,34 +109,40 @@ languages:
         enabled: true
         title: "Anthony David"
         subtitle: "Cybersecurity Engineer"
-        imageUrl: "images/anthony_david.jpg" # tu peux adapter l’image si besoin
+        imageUrl: "images/anthony_david.jpg"
         imageTitle: "Portrait of Anthony David"
         imageWidth: 200
         imageHeight: 200
         buttons:
           - name: "Skills"
-            url: "/skills"
+            url: "/en/skills"
           - name: "Projects"
-            url: "/projects"
+            url: "/en/projects"
           - name: "Extra-professional"
             url: "http://www.ecmelodia.ch"
           - name: "Contact me"
-            url: "/contact"
+            url: "/en/contact"
     menu:
       main:
         - name: "About"
-          url: "/about/"
+          url: "/en/about/"
           weight: 1
         - name: "Skills"
-          url: "/skills/"
+          url: "/en/skills/"
           weight: 2
         - name: "Projects"
-          url: "/projects/"
+          url: "/en/projects/"
           weight: 3
         - name: "Contact"
-          url: "/contact/"
+          url: "/en/contact/"
           weight: 4
 
+# Options Hugo
+canonifyURLs: true
+relativeURLs: false
 
-ignoreLogs:
-  - warning-goldmark-raw-html
+# Ignorer certains warnings
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
