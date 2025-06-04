@@ -1,4 +1,4 @@
-baseURL: "https://anthonydavid.ch"
+baseURL: "http://anthonydavid.ch"
 languageCode: fr
 title: Anthony David
 theme: PaperMod
@@ -14,6 +14,8 @@ params:
   ShowToc: false
   ShowLanguageSwitcher: true
   displayFullLangName: true
+  canonifyURLs: true
+  relativeURLs: false
 
   assets:
     favicon: "/favicon.ico"
