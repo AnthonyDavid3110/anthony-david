@@ -1,66 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Bienvenue on Anthony David</title>
-    <link>https://anthonydavid.ch/</link>
-    <description>Recent content in Bienvenue on Anthony David</description>
-    <generator>Hugo -- 0.147.6</generator>
-    <language>fr-FR</language>
-    <lastBuildDate>Thu, 29 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://anthonydavid.ch/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>À propos de moi</title>
-      <link>https://anthonydavid.ch/about/</link>
-      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://anthonydavid.ch/about/</guid>
-      <description>&lt;p&gt;👋 Bonjour,&lt;/p&gt;
-&lt;p&gt;Je suis &lt;strong&gt;Anthony David&lt;/strong&gt;, passionné par la &lt;strong&gt;cybersécurité&lt;/strong&gt;, la &lt;strong&gt;protection des données&lt;/strong&gt; et le &lt;strong&gt;développement de solutions fiables&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Avec une formation en ingénierie informatique et plusieurs expériences dans des environnements exigeants, je m’oriente aujourd’hui vers un poste en &lt;strong&gt;sécurité informatique&lt;/strong&gt;, &lt;strong&gt;SIEM engineering&lt;/strong&gt;, ou &lt;strong&gt;Data Protection Officer (DPO)&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Je me distingue par :&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;🎯 Ma rigueur et mon sens de l’analyse&lt;/li&gt;
-&lt;li&gt;🤝 Mon engagement pour l&amp;rsquo;éthique numérique&lt;/li&gt;
-&lt;li&gt;🚀 Ma capacité à apprendre vite et à m’adapter&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;J’ai eu l’occasion de travailler sur des projets variés allant de l’analyse de logs SIEM, à la conformité RGPD, en passant par le développement d’outils sécurisés en Python.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Compétences</title>
-      <link>https://anthonydavid.ch/skills/</link>
-      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://anthonydavid.ch/skills/</guid>
-      <description>&lt;h3 id=&#34;-cybersécurité&#34;&gt;🛡️ Cybersécurité&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;SIEM (Splunk, ELK)&lt;/li&gt;
-&lt;li&gt;Analyse de logs, gestion d&amp;rsquo;incidents&lt;/li&gt;
-&lt;li&gt;ISO 27001, RGPD, bonnes pratiques OWASP&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;-développement&#34;&gt;🖥️ Développement&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Python, Bash, PowerShell&lt;/li&gt;
-&lt;li&gt;Git, GitHub&lt;/li&gt;
-&lt;li&gt;Docker, Linux&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;-soft-skills&#34;&gt;🧠 Soft Skills&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Communication claire&lt;/li&gt;
-&lt;li&gt;Travail en équipe&lt;/li&gt;
-&lt;li&gt;Sens des responsabilités&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Contact</title>
-      <link>https://anthonydavid.ch/fr/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://anthonydavid.ch/fr/contact/</guid>
-      <description>&lt;p&gt;N&amp;rsquo;hésitez pas à me contacter pour discuter de mes projets, de mes compétences ou de toute opportunité professionnelle en cybersécurité.&lt;/p&gt;
-&lt;h3 id=&#34;informations-de-contact&#34;&gt;Informations de contact&lt;/h3&gt;
-&lt;p&gt;📧 &lt;strong&gt;Email&lt;/strong&gt; : &lt;a href=&#34;mailto:info@anthonydavid.ch&#34;&gt;info@anthonydavid.ch&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;📱 &lt;strong&gt;Téléphone&lt;/strong&gt; : +41 79 387 93 27&lt;/p&gt;
-&lt;h3 id=&#34;réseaux-professionnels&#34;&gt;Réseaux professionnels&lt;/h3&gt;
-&lt;p&gt;🔗 &lt;strong&gt;LinkedIn&lt;/strong&gt; : &lt;a href=&#34;https://www.linkedin.com/in/anthonydavid1462/&#34;&gt;Vers mon profil LinkedIn (anthonydavid1462)&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;documents-utiles&#34;&gt;Documents utiles&lt;/h3&gt;
-&lt;p&gt;📄 &lt;strong&gt;Télécharger mon CV au format PDF&lt;/strong&gt; : &lt;a href=&#34;https://anthonydavid.ch/files/Anthony-David-CV.pdf&#34;&gt;Télécharger le CV&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bienvenue on Anthony David</title><link>https://anthonydavid.ch/</link><description>Recent content in Bienvenue on Anthony David</description><generator>Hugo</generator><language>fr-FR</language><lastBuildDate>Thu, 29 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://anthonydavid.ch/index.xml" rel="self" type="application/rss+xml"/><item><title>À propos de moi</title><link>https://anthonydavid.ch/about/</link><pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate><guid>https://anthonydavid.ch/about/</guid><description>&lt;p>👋 Bonjour,&lt;/p>
+&lt;p>Je suis &lt;strong>Anthony David&lt;/strong>, passionné par la &lt;strong>cybersécurité&lt;/strong>, la &lt;strong>protection des données&lt;/strong> et le &lt;strong>développement de solutions fiables&lt;/strong>.&lt;/p>
+&lt;p>Avec une formation en ingénierie informatique et plusieurs expériences dans des environnements exigeants, je m’oriente aujourd’hui vers un poste en &lt;strong>sécurité informatique&lt;/strong>, &lt;strong>SIEM engineering&lt;/strong>, ou &lt;strong>Data Protection Officer (DPO)&lt;/strong>.&lt;/p>
+&lt;p>Je me distingue par :&lt;/p>
+&lt;ul>
+&lt;li>🎯 Ma rigueur et mon sens de l’analyse&lt;/li>
+&lt;li>🤝 Mon engagement pour l&amp;rsquo;éthique numérique&lt;/li>
+&lt;li>🚀 Ma capacité à apprendre vite et à m’adapter&lt;/li>
+&lt;/ul>
+&lt;p>J’ai eu l’occasion de travailler sur des projets variés allant de l’analyse de logs SIEM, à la conformité RGPD, en passant par le développement d’outils sécurisés en Python.&lt;/p></description></item><item><title>Compétences</title><link>https://anthonydavid.ch/skills/</link><pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate><guid>https://anthonydavid.ch/skills/</guid><description>&lt;h3 id="-cybersécurité">🛡️ Cybersécurité&lt;/h3>
+&lt;ul>
+&lt;li>SIEM (Splunk, ELK)&lt;/li>
+&lt;li>Analyse de logs, gestion d&amp;rsquo;incidents&lt;/li>
+&lt;li>ISO 27001, RGPD, bonnes pratiques OWASP&lt;/li>
+&lt;/ul>
+&lt;h3 id="-développement">🖥️ Développement&lt;/h3>
+&lt;ul>
+&lt;li>Python, Bash, PowerShell&lt;/li>
+&lt;li>Git, GitHub&lt;/li>
+&lt;li>Docker, Linux&lt;/li>
+&lt;/ul>
+&lt;h3 id="-soft-skills">🧠 Soft Skills&lt;/h3>
+&lt;ul>
+&lt;li>Communication claire&lt;/li>
+&lt;li>Travail en équipe&lt;/li>
+&lt;li>Sens des responsabilités&lt;/li>
+&lt;/ul></description></item><item><title>Contact</title><link>https://anthonydavid.ch/fr/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://anthonydavid.ch/fr/contact/</guid><description>&lt;p>N&amp;rsquo;hésitez pas à me contacter pour discuter de mes projets, de mes compétences ou de toute opportunité professionnelle en cybersécurité.&lt;/p>
+&lt;h3 id="informations-de-contact">Informations de contact&lt;/h3>
+&lt;p>📧 &lt;strong>Email&lt;/strong> : &lt;a href="mailto:info@anthonydavid.ch">info@anthonydavid.ch&lt;/a>&lt;/p>
+&lt;p>📱 &lt;strong>Téléphone&lt;/strong> : +41 79 387 93 27&lt;/p>
+&lt;h3 id="réseaux-professionnels">Réseaux professionnels&lt;/h3>
+&lt;p>🔗 &lt;strong>LinkedIn&lt;/strong> : &lt;a href="https://www.linkedin.com/in/anthonydavid1462/">Vers mon profil LinkedIn (anthonydavid1462)&lt;/a>&lt;/p>
+&lt;h3 id="documents-utiles">Documents utiles&lt;/h3>
+&lt;p>📄 &lt;strong>Télécharger mon CV au format PDF&lt;/strong> : &lt;a href="https://anthonydavid.ch/files/Anthony-David-CV.pdf">Télécharger le CV&lt;/a>&lt;/p></description></item></channel></rss>
