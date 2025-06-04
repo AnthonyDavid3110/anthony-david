@@ -17,6 +17,10 @@ params:
   canonifyURLs: true
   relativeURLs: false
 
+caches:
+  images:
+    dir: :cacheDir/images
+
   assets:
     favicon: "/favicon.ico"
     favicon16x16: "/favicon-16x16.png"
