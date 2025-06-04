@@ -1,5 +1,6 @@
 ---
 title: "Bienvenue"
+layout: "maintenance"
 ---
 
 <div align="center">
