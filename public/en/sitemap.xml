@@ -2,66 +2,93 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/anthony-david/en/about/</loc>
-    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/en/about/</loc>
+    <lastmod>2025-06-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://localhost:1313/anthony-david/about/"
+                href="//localhost:1313/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/anthony-david/en/about/"
+                href="//localhost:1313/en/about/"
                 />
   </url><url>
-    <loc>http://localhost:1313/anthony-david/en/</loc>
-    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/en/contact/</loc>
+    <lastmod>2025-06-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://localhost:1313/anthony-david/"
+                href="//localhost:1313/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/anthony-david/en/"
+                href="//localhost:1313/en/contact/"
                 />
   </url><url>
-    <loc>http://localhost:1313/anthony-david/en/categories/</loc>
+    <loc>//localhost:1313/en/projects/</loc>
+    <lastmod>2025-06-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://localhost:1313/anthony-david/categories/"
+                href="//localhost:1313/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/anthony-david/en/categories/"
+                href="//localhost:1313/en/projects/"
                 />
   </url><url>
-    <loc>http://localhost:1313/anthony-david/fr/contact/</loc>
+    <loc>//localhost:1313/en/skills/</loc>
+    <lastmod>2025-06-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://localhost:1313/anthony-david/fr/contact/"
+                href="//localhost:1313/skills/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/anthony-david/fr/contact/"
+                href="//localhost:1313/en/skills/"
                 />
   </url><url>
-    <loc>http://localhost:1313/anthony-david/en/tags/</loc>
+    <loc>//localhost:1313/en/</loc>
+    <lastmod>2025-06-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://localhost:1313/anthony-david/tags/"
+                href="//localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/anthony-david/en/tags/"
+                href="//localhost:1313/en/"
+                />
+  </url><url>
+    <loc>//localhost:1313/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="//localhost:1313/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="//localhost:1313/en/categories/"
+                />
+  </url><url>
+    <loc>//localhost:1313/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="//localhost:1313/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="//localhost:1313/en/tags/"
                 />
   </url>
 </urlset>

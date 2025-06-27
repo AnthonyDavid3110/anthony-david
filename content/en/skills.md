@@ -1,13 +1,13 @@
 ---
-title: "Compétences"
+title: "Skills"
 date: 2025-06-05
 draft: false
 type: "page"
 ---
 
-Voici un aperçu de mes compétences techniques :
+Here is an overview of my technical skills:
 
-### Langages et Scripts
+### Languages and Scripts
 * Python
 * Rust
 * PowerShell
@@ -17,29 +17,29 @@ Voici un aperçu de mes compétences techniques :
 * C++
 * Java
 
-### Systèmes et Réseaux [cite: 4]
+### Systems and Networks [cite: 4]
 * Linux
 * Windows
 * Android
-* Virtualisation
+* Virtualization
 * SQL
-* Conteneurs
+* Containers
 * Cloud (AWS, Azure)
 * VPN
-* Pare-feux (Firewalls)
+* Firewalls
 * IDS IPS (Intrusion Detection/Prevention Systems)
-* Journalisation (Logging)
+* Logging
 
-### Ingénierie de la Sécurité
-* Authentification (SSO, MFA)
-* Gestion des accès et Autorisation
-* Gestion des mots de passe
+### Security Engineering
+* Authentication (SSO, MFA)
+* Access Management and Authorization
+* Password Management
 * SSL/TLS
 * PKI (Public Key Infrastructure)
-* Validation des entrées
+* Input Validation
 
-### Détection et Réponse aux Menaces
-* Détection de menaces
+### Threat Detection and Response
+* Threat Detection
 * SIEM (Security Information and Event Management)
 * EDR (Endpoint Detection and Response)
 * NDR (Network Detection and Response)
@@ -52,9 +52,9 @@ Voici un aperçu de mes compétences techniques :
 ### Reverse Engineering
 * ROP (Return-Oriented Programming)
 * Buffer Overflow
-* Développement d'exploits
+* Exploit Development
 
-### Cryptographie
+### Cryptography
 * RSA
 * AES
 * Chacha20
@@ -63,18 +63,18 @@ Voici un aperçu de mes compétences techniques :
 * PKI (Public Key Infrastructure)
 * Diffie-Hellman
 
-### Gouvernance, Risques et Conformité (GRC)
-* Analyse des risques
+### Governance, Risk, and Compliance (GRC)
+* Risk Analysis
 * GRC
 
-### Outils et Frameworks
+### Tools and Frameworks
 * Ghidra
 * Shodan
 * Maltego
 * SageMath
 
-### Rédaction Technique et Collaboration
-* Latex
+### Technical Writing and Collaboration
+* ETEX
 * Markdown
 * Typst
 * Git

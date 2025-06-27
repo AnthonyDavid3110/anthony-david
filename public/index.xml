@@ -1,21 +1,180 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Bienvenue on Anthony David</title>
-    <link>http://localhost:1313/anthony-david/</link>
-    <description>Recent content in Bienvenue on Anthony David</description>
+    <title>Anthony David</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Anthony David</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 29 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/anthony-david/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>//localhost:1313/blog/</link>
+      <pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lectures</title>
+      <link>//localhost:1313/lectures/</link>
+      <pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/lectures/</guid>
+      <description>&lt;p&gt;📚 Voici une sélection de lectures techniques et professionnelles qui ont marqué mon parcours. Je les ai regroupées par type (livres, articles, publications).&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-livres&#34;&gt;📘 Livres&lt;/h2&gt;
+&lt;h3 id=&#34;-la-cybersécurité--nicolas-arpagian&#34;&gt;🧠 &lt;em&gt;La Cybersécurité&lt;/em&gt; – Nicolas Arpagian&lt;/h3&gt;
+&lt;p style=&#34;text-align:center;&#34;&gt;
+  &lt;img src=&#34;//localhost:1313/images/la-cybersecurite.jpg&#34; alt=&#34;The Art of Invisibility&#34; width=&#34;250&#34;&gt;
+&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Livre que j&amp;rsquo;ai découvert car il faisait partie des sources du cours de cybersécurité comportementale suivi lors de mon échange académique au Québec.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3 id=&#34;-how-cybersecurity-really-works-a-hands-on-guide-for-total-beginners--sam-grubb&#34;&gt;🧠 &lt;em&gt;How Cybersecurity Really Works: A Hands-On Guide for Total Beginners&lt;/em&gt; – Sam Grubb&lt;/h3&gt;
+&lt;p style=&#34;text-align:center;&#34;&gt;
+  &lt;img src=&#34;//localhost:1313/images/81tct4OqfdL._SL1500_.jpg&#34; alt=&#34;The Art of Invisibility&#34; width=&#34;250&#34;&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Compétences</title>
+      <link>//localhost:1313/skills/</link>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/skills/</guid>
+      <description>&lt;p&gt;Voici un aperçu de mes compétences techniques :&lt;/p&gt;
+&lt;h3 id=&#34;langages-et-scripts&#34;&gt;Langages et Scripts&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;li&gt;Rust&lt;/li&gt;
+&lt;li&gt;PowerShell&lt;/li&gt;
+&lt;li&gt;JavaScript&lt;/li&gt;
+&lt;li&gt;Bash&lt;/li&gt;
+&lt;li&gt;C&lt;/li&gt;
+&lt;li&gt;C++&lt;/li&gt;
+&lt;li&gt;Java&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;systèmes-et-réseaux-cite-4&#34;&gt;Systèmes et Réseaux [cite: 4]&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Linux&lt;/li&gt;
+&lt;li&gt;Windows&lt;/li&gt;
+&lt;li&gt;Android&lt;/li&gt;
+&lt;li&gt;Virtualisation&lt;/li&gt;
+&lt;li&gt;SQL&lt;/li&gt;
+&lt;li&gt;Conteneurs&lt;/li&gt;
+&lt;li&gt;Cloud (AWS, Azure)&lt;/li&gt;
+&lt;li&gt;VPN&lt;/li&gt;
+&lt;li&gt;Pare-feux (Firewalls)&lt;/li&gt;
+&lt;li&gt;IDS IPS (Intrusion Detection/Prevention Systems)&lt;/li&gt;
+&lt;li&gt;Journalisation (Logging)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ingénierie-de-la-sécurité&#34;&gt;Ingénierie de la Sécurité&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Authentification (SSO, MFA)&lt;/li&gt;
+&lt;li&gt;Gestion des accès et Autorisation&lt;/li&gt;
+&lt;li&gt;Gestion des mots de passe&lt;/li&gt;
+&lt;li&gt;SSL/TLS&lt;/li&gt;
+&lt;li&gt;PKI (Public Key Infrastructure)&lt;/li&gt;
+&lt;li&gt;Validation des entrées&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;détection-et-réponse-aux-menaces&#34;&gt;Détection et Réponse aux Menaces&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Détection de menaces&lt;/li&gt;
+&lt;li&gt;SIEM (Security Information and Event Management)&lt;/li&gt;
+&lt;li&gt;EDR (Endpoint Detection and Response)&lt;/li&gt;
+&lt;li&gt;NDR (Network Detection and Response)&lt;/li&gt;
+&lt;li&gt;SOAR (Security Orchestration, Automation and Response)&lt;/li&gt;
+&lt;li&gt;SOC (Security Operations Center)&lt;/li&gt;
+&lt;li&gt;IoC (Indicators of Compromise)&lt;/li&gt;
+&lt;li&gt;TTPs (Tactics, Techniques, and Procedures)&lt;/li&gt;
+&lt;li&gt;OSINT (Open-Source Intelligence)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;reverse-engineering&#34;&gt;Reverse Engineering&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;ROP (Return-Oriented Programming)&lt;/li&gt;
+&lt;li&gt;Buffer Overflow&lt;/li&gt;
+&lt;li&gt;Développement d&amp;rsquo;exploits&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;cryptographie&#34;&gt;Cryptographie&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;RSA&lt;/li&gt;
+&lt;li&gt;AES&lt;/li&gt;
+&lt;li&gt;Chacha20&lt;/li&gt;
+&lt;li&gt;ECDSA&lt;/li&gt;
+&lt;li&gt;EdDSA&lt;/li&gt;
+&lt;li&gt;PKI (Public Key Infrastructure)&lt;/li&gt;
+&lt;li&gt;Diffie-Hellman&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;gouvernance-risques-et-conformité-grc&#34;&gt;Gouvernance, Risques et Conformité (GRC)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Analyse des risques&lt;/li&gt;
+&lt;li&gt;GRC&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;outils-et-frameworks&#34;&gt;Outils et Frameworks&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Ghidra&lt;/li&gt;
+&lt;li&gt;Shodan&lt;/li&gt;
+&lt;li&gt;Maltego&lt;/li&gt;
+&lt;li&gt;SageMath&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;rédaction-technique-et-collaboration&#34;&gt;Rédaction Technique et Collaboration&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Latex&lt;/li&gt;
+&lt;li&gt;Markdown&lt;/li&gt;
+&lt;li&gt;Typst&lt;/li&gt;
+&lt;li&gt;Git&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Me contacter</title>
+      <link>//localhost:1313/contact/</link>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/contact/</guid>
+      <description>&lt;p&gt;N&amp;rsquo;hésitez pas à me contacter si vous avez des questions ou des opportunités.&lt;/p&gt;
+&lt;h3 id=&#34;informations-de-contact-&#34;&gt;Informations de contact :&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Email :&lt;/strong&gt; &lt;a href=&#34;mailto:info@anthonydavid.ch&#34;&gt;info@anthonydavid.ch&lt;/a&gt; [cite: 1]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Téléphone :&lt;/strong&gt; +41 79 387 93 27 [cite: 1]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LinkedIn :&lt;/strong&gt; &lt;a href=&#34;https://www.linkedin.com/in/anthonydavid1462/&#34;&gt;anthonydavid1462&lt;/a&gt; [cite: 1]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitHub :&lt;/strong&gt; &lt;a href=&#34;https://github.com/AnthonyDavid3110&#34;&gt;AnthonyDavid3110&lt;/a&gt; [cite: 1]&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Projets</title>
+      <link>//localhost:1313/projects/</link>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/</guid>
+      <description>&lt;p&gt;Voici quelques-uns de mes projets notables :&lt;/p&gt;
+&lt;h3 id=&#34;scanalyze---application-mobile-de-suivi-des-achats&#34;&gt;Scanalyze - Application mobile de suivi des achats&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Université d&amp;rsquo;été, HEIG-VD&lt;/strong&gt; | Août 2023&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Conception d&amp;rsquo;une application mobile multi-plateforme avec backend Python, frontend JavaScript et application mobile Kotlin.&lt;/li&gt;
+&lt;li&gt;Intégration d&amp;rsquo;un module OCR et d&amp;rsquo;un algorithme de fuzzy matching pour l&amp;rsquo;analyse intelligente de tickets de caisse.&lt;/li&gt;
+&lt;li&gt;Déploiement sur AWS[cite: 11].&lt;/li&gt;
+&lt;li&gt;Projet open source : &lt;a href=&#34;https://github.com/DrCookie/scanalyze&#34;&gt;github.com/DrCookie/scanalyze&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Activités extra-professionnelles</title>
+      <link>//localhost:1313/extra/</link>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/extra/</guid>
+      <description>&lt;p&gt;Au-delà de mon parcours académique et professionnel, je consacre du temps à plusieurs activités qui renforcent mon équilibre personnel et enrichissent mes compétences humaines et techniques.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-musicien-à-lensemble-de-cuivres-mélodia&#34;&gt;🎺 Musicien à l&amp;rsquo;ensemble de cuivres Mélodia&lt;/h2&gt;
+&lt;p&gt;Depuis plusieurs années, je joue au sein de l&amp;rsquo;&lt;strong&gt;Ensemble de cuivres Mélodia&lt;/strong&gt;, une formation musicale dynamique en Suisse romande. Cette activité me permet de cultiver :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🎵 La discipline et la rigueur (répétitions régulières)&lt;/li&gt;
+&lt;li&gt;👂 L’écoute collective et la synchronisation&lt;/li&gt;
+&lt;li&gt;🫱 L&amp;rsquo;esprit d&amp;rsquo;équipe artistique&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🔗 &lt;a href=&#34;http://www.ecmelodia.ch&#34;&gt;Site de Mélodia&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>À propos de moi</title>
-      <link>http://localhost:1313/anthony-david/about/</link>
+      <link>//localhost:1313/about/</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/anthony-david/about/</guid>
+      <guid>//localhost:1313/about/</guid>
       <description>&lt;p&gt;👋 Bonjour,&lt;/p&gt;
 &lt;p&gt;Je suis &lt;strong&gt;Anthony David&lt;/strong&gt;, passionné par la &lt;strong&gt;cybersécurité&lt;/strong&gt;, la &lt;strong&gt;protection des données&lt;/strong&gt; et le &lt;strong&gt;développement de solutions fiables&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Avec une formation en ingénierie informatique et plusieurs expériences dans des environnements exigeants, je m’oriente aujourd’hui vers un poste en &lt;strong&gt;sécurité informatique&lt;/strong&gt;, &lt;strong&gt;SIEM engineering&lt;/strong&gt;, ou &lt;strong&gt;Data Protection Officer (DPO)&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Avec une formation en ingénierie informatique et plusieurs expériences dans des environnements exigeants, je m’oriente aujourd’hui vers un poste en &lt;strong&gt;sécurité informatique&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Je me distingue par :&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;🎯 Ma rigueur et mon sens de l’analyse&lt;/li&gt;
@@ -23,44 +182,6 @@
 &lt;li&gt;🚀 Ma capacité à apprendre vite et à m’adapter&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;J’ai eu l’occasion de travailler sur des projets variés allant de l’analyse de logs SIEM, à la conformité RGPD, en passant par le développement d’outils sécurisés en Python.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Compétences</title>
-      <link>http://localhost:1313/anthony-david/skills/</link>
-      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/anthony-david/skills/</guid>
-      <description>&lt;h3 id=&#34;-cybersécurité&#34;&gt;🛡️ Cybersécurité&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;SIEM (Splunk, ELK)&lt;/li&gt;
-&lt;li&gt;Analyse de logs, gestion d&amp;rsquo;incidents&lt;/li&gt;
-&lt;li&gt;ISO 27001, RGPD, bonnes pratiques OWASP&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;-développement&#34;&gt;🖥️ Développement&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Python, Bash, PowerShell&lt;/li&gt;
-&lt;li&gt;Git, GitHub&lt;/li&gt;
-&lt;li&gt;Docker, Linux&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;-soft-skills&#34;&gt;🧠 Soft Skills&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Communication claire&lt;/li&gt;
-&lt;li&gt;Travail en équipe&lt;/li&gt;
-&lt;li&gt;Sens des responsabilités&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Contact</title>
-      <link>http://localhost:1313/anthony-david/fr/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/anthony-david/fr/contact/</guid>
-      <description>&lt;p&gt;N&amp;rsquo;hésitez pas à me contacter pour discuter de mes projets, de mes compétences ou de toute opportunité professionnelle en cybersécurité.&lt;/p&gt;
-&lt;h3 id=&#34;informations-de-contact&#34;&gt;Informations de contact&lt;/h3&gt;
-&lt;p&gt;📧 &lt;strong&gt;Email&lt;/strong&gt; : &lt;a href=&#34;mailto:info@anthonydavid.ch&#34;&gt;info@anthonydavid.ch&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;📱 &lt;strong&gt;Téléphone&lt;/strong&gt; : +41 79 387 93 27&lt;/p&gt;
-&lt;h3 id=&#34;réseaux-professionnels&#34;&gt;Réseaux professionnels&lt;/h3&gt;
-&lt;p&gt;🔗 &lt;strong&gt;LinkedIn&lt;/strong&gt; : &lt;a href=&#34;https://www.linkedin.com/in/anthonydavid1462/&#34;&gt;Vers mon profil LinkedIn (anthonydavid1462)&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;documents-utiles&#34;&gt;Documents utiles&lt;/h3&gt;
-&lt;p&gt;📄 &lt;strong&gt;Télécharger mon CV au format PDF&lt;/strong&gt; : &lt;a href=&#34;http://localhost:1313/anthony-david/files/Anthony-David-CV.pdf&#34;&gt;Télécharger le CV&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,4 +1,4 @@
-baseURL: "https://anthonydavid3110.github.io/anthony-david"
+baseURL: "anthonydavid.ch"
 languageCode: fr
 title: Anthony David
 theme: PaperMod
@@ -13,18 +13,19 @@ params:
   ShowReadingTime: false
   ShowCodeCopyButtons: true
   ShowToc: false
+  TocOpen: true
   ShowLanguageSwitcher: true
   displayFullLangName: true
-  
-  # Favicons (dans params, pas dans caches)
+ 
+  # Favicons
   assets:
     favicon: "/favicon.ico"
     favicon16x16: "/favicon-16x16.png"
     favicon32x32: "/favicon-32x32.png"
     apple_touch_icon: "/apple-touch-icon.png"
     safari_pinned_tab: "/safari-pinned-tab.svg"
-  
-  # Profile mode global (dans params, pas dans caches)
+ 
+  # Profile mode global - URLs relatives (Hugo ajoutera le préfixe de langue)
   profileMode:
     enabled: true
     title: "Anthony David"
@@ -35,14 +36,14 @@ params:
     imageHeight: 200
     buttons:
       - name: "Compétences"
-        url: "/skills"
+        url: "skills"  # Sans slash initial = URL relative
       - name: "Projets"
-        url: "/projects"
+        url: "projects"
       - name: "Extra-professionnel"
-        url: "http://www.ecmelodia.ch"
+        url: "http://www.ecmelodia.ch"  # URL externe = complète
       - name: "Me contacter"
-        url: "/contact"
-  
+        url: "contact"
+ 
   # Icônes sociales
   socialIcons:
     - name: "LinkedIn"
@@ -50,13 +51,14 @@ params:
     - name: "Github"
       url: "https://github.com/AnthonyDavid3110"
 
-# Configuration du cache (optionnel, peut être supprimé si pas nécessaire)
+# Configuration du cache
 caches:
   images:
     dir: ":cacheDir/images"
   assets:
     dir: ":cacheDir/assets"
 
+# Configuration des langues
 # Configuration des langues
 languages:
   fr:
@@ -65,39 +67,53 @@ languages:
     title: "Anthony David"
     weight: 1
     contentDir: "content/fr"
-    params:
-      profileMode:
-        enabled: true
-        title: "Anthony David"
-        subtitle: "Ingénieur en cybersécurité"
-        imageUrl: "images/anthony_david.jpg"
-        imageTitle: "Portrait d'Anthony David"
-        imageWidth: 200
-        imageHeight: 200
-        buttons:
-          - name: "Compétences"
-            url: "/fr/skills"
-          - name: "Projets"
-            url: "/fr/projects"
-          - name: "Extra-professionnel"
-            url: "http://www.ecmelodia.ch"
-          - name: "Me contacter"
-            url: "/fr/contact"
+    # ... (le reste de votre configuration fr)
     menu:
       main:
         - name: "À propos"
-          url: "/fr/about/"
+          url: "/about/" # Ajoutez le slash initial et final
           weight: 1
         - name: "Compétences"
-          url: "/fr/skills/"
+          url: "/skills/" # Ajoutez le slash initial et final
           weight: 2
         - name: "Projets"
-          url: "/fr/projects/"
+          url: "/projects/" # Ajoutez le slash initial et final
+          weight: 3
+        - name: "Extra-professionnel"
+          url: "/extra/" # Ajoutez le slash initial et final
+          weight: 3
+        - name: "Blog"
+          url: "/blog"
+          weight: 4
+        - name: "Lectures"
+          url: "/lectures"
+          weight: 5
+        - name: "Contact"
+          url: "/contact/" # Ajoutez le slash initial et final
+          weight: 6
+
+  en:
+    languageName: "🇬🇧"
+    languageCode: "en-US"
+    title: "Anthony David"
+    weight: 2
+    contentDir: "content/en"
+    # ... (le reste de votre configuration en)
+    menu:
+      main:
+        - name: "About"
+          url: "/about/"
+          weight: 1
+        - name: "Skills"
+          url: "/skills/"
+          weight: 2
+        - name: "Projects"
+          url: "/projects/"
           weight: 3
         - name: "Contact"
-          url: "/fr/contact/"
+          url: "/contact/" 
           weight: 4
-  
+
   en:
     languageName: "🇬🇧"
     languageCode: "en-US"
@@ -115,26 +131,26 @@ languages:
         imageHeight: 200
         buttons:
           - name: "Skills"
-            url: "/en/skills"
+            url: "skills"  # URLs relatives
           - name: "Projects"
-            url: "/en/projects"
+            url: "projects"
           - name: "Extra-professional"
             url: "http://www.ecmelodia.ch"
           - name: "Contact me"
-            url: "/en/contact"
+            url: "contact"
     menu:
       main:
         - name: "About"
-          url: "/en/about/"
+          url: "/en/about/"  # URL relative, Hugo ajoutera /en/
           weight: 1
         - name: "Skills"
           url: "/en/skills/"
           weight: 2
         - name: "Projects"
-          url: "/en/projects/"
+          url: "projects"
           weight: 3
         - name: "Contact"
-          url: "/en/contact/"
+          url: "contact"
           weight: 4
 
 # Options Hugo
