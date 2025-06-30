@@ -73,25 +73,9 @@ languages:
         - name: "À propos"
           url: "/about/" # Ajoutez le slash initial et final
           weight: 1
-        - name: "Compétences"
-          url: "/skills/" # Ajoutez le slash initial et final
-          weight: 2
-        - name: "Projets"
-          url: "/projects/" # Ajoutez le slash initial et final
-          weight: 3
-        - name: "Extra-professionnel"
-          url: "/extra/" # Ajoutez le slash initial et final
-          weight: 3
         - name: "Blog"
           url: "/blog"
-          weight: 4
-        - name: "Lectures"
-          url: "/lectures"
-          weight: 5
-        - name: "Contact"
-          url: "/contact/" # Ajoutez le slash initial et final
-          weight: 6
-
+          weight: 2
   en:
     languageName: "🇬🇧"
     languageCode: "en-US"
@@ -104,16 +88,9 @@ languages:
         - name: "About"
           url: "/about/"
           weight: 1
-        - name: "Skills"
-          url: "/skills/"
+        - name: "Blog"
+          url: "/blog/"
           weight: 2
-        - name: "Projects"
-          url: "/projects/"
-          weight: 3
-        - name: "Contact"
-          url: "/contact/" 
-          weight: 4
-
   en:
     languageName: "🇬🇧"
     languageCode: "en-US"
