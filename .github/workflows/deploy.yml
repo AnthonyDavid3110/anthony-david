@@ -1,0 +1,43 @@
+name: Deploy Hugo site to GitHub Pages
+
+on:
+  workflow_dispatch:  # Déploiement manuel uniquement
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout source
+      uses: actions/checkout@v4
+      with:
+        submodules: true
+        fetch-depth: 0
+    
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: 'latest'
+        extended: true
+    
+    - name: Build site
+      run: hugo --minify
+    
+    - name: Checkout gh-pages to preserve maintenance files
+      uses: actions/checkout@v4
+      with:
+        ref: gh-pages
+        path: gh-pages-backup
+    
+    - name: Preserve maintenance files
+      run: |
+        cp gh-pages-backup/maintenance.html public/ 2>/dev/null || true
+        cp gh-pages-backup/maintenance.css public/ 2>/dev/null || true
+    
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./public
+        publish_branch: gh-pages
+        keep_files: false
