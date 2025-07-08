@@ -3,6 +3,14 @@
 # Stop on error
 set -e
 
+# Vérifie que le working tree est propre
+if ! git diff-index --quiet HEAD --; then
+  echo "❌ Le dépôt contient des modifications non commités. Veuillez commit ou stash avant de continuer."
+  exit 1
+fi
+
+
+
 # Configuration
 BRANCH="gh-pages"
 BUILD_DIR="public"
