@@ -1,43 +1,66 @@
 name: Deploy Hugo site to GitHub Pages
 
 on:
-  workflow_dispatch:  # Déploiement manuel uniquement
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
-    
     steps:
-    - name: Checkout source
-      uses: actions/checkout@v4
-      with:
-        submodules: true
-        fetch-depth: 0
-    
-    - name: Setup Hugo
-      uses: peaceiris/actions-hugo@v2
-      with:
-        hugo-version: 'latest'
-        extended: true
-    
-    - name: Build site
-      run: hugo --minify
-    
-    - name: Checkout gh-pages to preserve maintenance files
-      uses: actions/checkout@v4
-      with:
-        ref: gh-pages
-        path: gh-pages-backup
-    
-    - name: Preserve maintenance files
-      run: |
-        cp gh-pages-backup/maintenance.html public/ 2>/dev/null || true
-        cp gh-pages-backup/maintenance.css public/ 2>/dev/null || true
-    
-    - name: Deploy to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./public
-        publish_branch: gh-pages
-        keep_files: false
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: true
+          fetch-depth: 0
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Build with Hugo
+        run: |
+          hugo \
+            --gc \
+            --minify \
+            --baseURL "${{ steps.pages.outputs.base_url }}/"
+
+      - name: Preserve maintenance files
+        run: |
+          # Sauvegarde les fichiers de maintenance de gh-pages
+          git fetch origin gh-pages:gh-pages || true
+          git checkout gh-pages -- maintenance.html maintenance.css 2>/dev/null || true
+          cp maintenance.html public/ 2>/dev/null || true
+          cp maintenance.css public/ 2>/dev/null || true
+          git checkout main
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
