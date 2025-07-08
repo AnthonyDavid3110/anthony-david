@@ -12,18 +12,24 @@ hugo --minify
 git checkout gh-pages
 git pull origin gh-pages
 
-# Sauvegarde la page de maintenance
-cp maintenance.html maintenance-backup.html
-cp maintenance.css maintenance-backup.css
+# Sauvegarde les fichiers de maintenance
+cp maintenance.html maintenance-backup.html 2>/dev/null || true
+cp maintenance.css maintenance-backup.css 2>/dev/null || true
+
+# Supprime l'ancien contenu (sauf maintenance)
+find . -name "*.html" -not -name "maintenance*" -not -path "./.git/*" -delete
+find . -name "*.css" -not -name "maintenance*" -not -path "./.git/*" -delete
+find . -name "*.js" -not -path "./.git/*" -delete
+find . -type d -empty -not -path "./.git/*" -delete
 
 # Copie les nouveaux fichiers
 cp -r public/* .
 rm -rf public
 
 # Restaure les fichiers de maintenance
-cp maintenance-backup.html maintenance.html
-cp maintenance-backup.css maintenance.css
-rm maintenance-backup.*
+cp maintenance-backup.html maintenance.html 2>/dev/null || true
+cp maintenance-backup.css maintenance.css 2>/dev/null || true
+rm maintenance-backup.* 2>/dev/null || true
 
 git add -A
 git commit -m "🚀 Manual deployment $(date)"
