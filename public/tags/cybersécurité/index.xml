@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cybersécurité on Anthony David</title>
+    <link>//localhost:1313/tags/cybers%C3%A9curit%C3%A9/</link>
+    <description>Recent content in Cybersécurité on Anthony David</description>
+    <generator>Hugo -- 0.147.6</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Tue, 08 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/cybers%C3%A9curit%C3%A9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>À propos de moi</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;p align=&#34;center&#34;&gt;
+    &lt;img src=&#34;//localhost:1313/images/pres.jpeg&#34; width=&#34;400&#34; alt=&#34;Anthony David – profil&#34;&gt;
+  &lt;/p&gt;
+&lt;p&gt;Je suis &lt;strong&gt;Anthony David&lt;/strong&gt;, ingénieur en cybersécurité diplômé de la HEIG-VD, passionné par la protection des données, la défense des systèmes et le développement de solutions fiables et sécurisées.&lt;/p&gt;
+&lt;p&gt;Formé en ingénierie informatique avec spécialisation sécurité, j’ai travaillé sur des projets allant de la détection de menaces SIEM à la conformité RGPD, en passant par le développement d’outils Python.&lt;/p&gt;
+&lt;p&gt;🎯 Je recherche activement un &lt;strong&gt;stage&lt;/strong&gt; ou &lt;strong&gt;poste junior&lt;/strong&gt; en cybersécurité (SOC, GRC, offensive, ingénierie).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -4,32 +4,33 @@
     <title>Welcome on Anthony David</title>
     <link>//localhost:1313/en/</link>
     <description>Recent content in Welcome on Anthony David</description>
-    <generator>Hugo -- 0.147.9</generator>
+    <generator>Hugo -- 0.147.6</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 05 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About Me</title>
+      <title>About me</title>
       <link>//localhost:1313/en/about/</link>
-      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/en/about/</guid>
-      <description>&lt;p&gt;I am Anthony David, a Computer Engineer with a keen interest in cybersecurity[cite: 1]. Several years of experience as an IT technician have strengthened my mastery of IT infrastructures, client needs, and best practices essential for system management and security[cite: 2].&lt;/p&gt;
-&lt;p&gt;My current Bachelor of Science HES-SO in Computer Science and Communication Systems (with a cybersecurity specialization) at HEIG-VD is deepening my knowledge in this field[cite: 3]. I also had the opportunity to complete an international academic exchange semester at UQO - Université du Québec en Outaouais from August to December 2024, where I earned additional ECTS credits and took specialized courses in cybersecurity, cryptography, and cyber threat intelligence[cite: 5].&lt;/p&gt;</description>
+      <description>Cybersecurity engineer, passionate about systems defence, digital ethics and the development of reliable solutions. Available for an internship or junior position.</description>
     </item>
     <item>
       <title>Contact Me</title>
       <link>//localhost:1313/en/contact/</link>
       <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/en/contact/</guid>
-      <description>&lt;p&gt;Feel free to contact me if you have any questions or opportunities.&lt;/p&gt;
-&lt;h3 id=&#34;contact-information&#34;&gt;Contact Information:&lt;/h3&gt;
+      <description>&lt;p&gt;Do you have a question, a project, or a potential opportunity to discuss?&lt;br&gt;
+Feel free to reach out, I’ll be happy to get back to you.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-contact-information&#34;&gt;🔗 Contact Information&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:info@anthonydavid.ch&#34;&gt;info@anthonydavid.ch&lt;/a&gt; [cite: 1]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Phone:&lt;/strong&gt; +41 79 387 93 27 [cite: 1]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href=&#34;https://www.linkedin.com/in/anthonydavid1462/&#34;&gt;anthonydavid1462&lt;/a&gt; [cite: 1]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&#34;https://github.com/AnthonyDavid3110&#34;&gt;AnthonyDavid3110&lt;/a&gt; [cite: 1]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;You can also find me on Mastodon: @MrCobblepot [cite: 1]&lt;/p&gt;</description>
+&lt;li&gt;📧 &lt;strong&gt;Email&lt;/strong&gt;: &lt;a href=&#34;mailto:info@anthonydavid.ch&#34;&gt;info@anthonydavid.ch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;strong&gt;Signal&lt;/strong&gt; : &lt;a href=&#34;https://signal.me/#p/&amp;#43;41793879327&#34;&gt;MrCobblepot.47&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📲 &lt;strong&gt;Telegram&lt;/strong&gt; : &lt;a href=&#34;https://t.me/OswaldCobblepot1941&#34;&gt;@OswaldCobblepot1941&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💼 &lt;strong&gt;LinkedIn&lt;/strong&gt;: &lt;a href=&#34;https://www.linkedin.com/in/anthonydavid1462/&#34;&gt;anthonydavid1462&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💻 &lt;strong&gt;GitHub&lt;/strong&gt;: &lt;a href=&#34;https://github.com/DrC0okie&#34;&gt;DrC0okie&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Projects</title>

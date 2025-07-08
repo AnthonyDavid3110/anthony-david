@@ -3,14 +3,19 @@ title: "Contact Me"
 date: 2025-06-05
 draft: false
 type: "page"
+showToc: false
+hideMeta: true
 ---
 
-Feel free to contact me if you have any questions or opportunities.
+Do you have a question, a project, or a potential opportunity to discuss?  
+Feel free to reach out, I’ll be happy to get back to you.
 
-### Contact Information:
-* **Email:** info@anthonydavid.ch [cite: 1]
-* **Phone:** +41 79 387 93 27 [cite: 1]
-* **LinkedIn:** [anthonydavid1462](https://www.linkedin.com/in/anthonydavid1462/) [cite: 1]
-* **GitHub:** [AnthonyDavid3110](https://github.com/AnthonyDavid3110) [cite: 1]
+---
 
-You can also find me on Mastodon: @MrCobblepot [cite: 1]
+### 🔗 Contact Information
+
+- 📧 **Email**: [info@anthonydavid.ch](mailto:info@anthonydavid.ch)  
+- 💬 **Signal** : [MrCobblepot.47](https://signal.me/#p/+41793879327)  
+- 📲 **Telegram** : [@OswaldCobblepot1941](https://t.me/OswaldCobblepot1941)  
+- 💼 **LinkedIn**: [anthonydavid1462](https://www.linkedin.com/in/anthonydavid1462/)  
+- 💻 **GitHub**: [DrC0okie](https://github.com/DrC0okie)  

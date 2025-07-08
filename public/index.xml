@@ -4,10 +4,17 @@
     <title>Anthony David</title>
     <link>//localhost:1313/</link>
     <description>Recent content on Anthony David</description>
-    <generator>Hugo -- 0.147.9</generator>
+    <generator>Hugo -- 0.147.6</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 08 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>À propos de moi</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>Ingénieur en cybersécurité, passionné par la défense des systèmes, l&amp;rsquo;éthique numérique et le développement de solutions fiables. Disponible pour un stage ou un poste junior.</description>
+    </item>
     <item>
       <title>Blog</title>
       <link>//localhost:1313/blog/</link>
@@ -127,13 +134,16 @@
       <link>//localhost:1313/contact/</link>
       <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/contact/</guid>
-      <description>&lt;p&gt;N&amp;rsquo;hésitez pas à me contacter si vous avez des questions ou des opportunités.&lt;/p&gt;
-&lt;h3 id=&#34;informations-de-contact-&#34;&gt;Informations de contact :&lt;/h3&gt;
+      <description>&lt;p&gt;Vous avez une question, une opportunité à proposer, ou simplement envie d’échanger ?&lt;br&gt;
+N&amp;rsquo;hésitez pas à me contacter, je vous répondrai avec plaisir.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-coordonnées&#34;&gt;🔗 Coordonnées&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Email :&lt;/strong&gt; &lt;a href=&#34;mailto:info@anthonydavid.ch&#34;&gt;info@anthonydavid.ch&lt;/a&gt; [cite: 1]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Téléphone :&lt;/strong&gt; +41 79 387 93 27 [cite: 1]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;LinkedIn :&lt;/strong&gt; &lt;a href=&#34;https://www.linkedin.com/in/anthonydavid1462/&#34;&gt;anthonydavid1462&lt;/a&gt; [cite: 1]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;GitHub :&lt;/strong&gt; &lt;a href=&#34;https://github.com/AnthonyDavid3110&#34;&gt;AnthonyDavid3110&lt;/a&gt; [cite: 1]&lt;/li&gt;
+&lt;li&gt;📧 &lt;strong&gt;Email&lt;/strong&gt; : &lt;a href=&#34;mailto:info@anthonydavid.ch&#34;&gt;info@anthonydavid.ch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;strong&gt;Signal&lt;/strong&gt; : &lt;a href=&#34;https://signal.me/#p/&amp;#43;41793879327&#34;&gt;MrCobblepot.47&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📲 &lt;strong&gt;Telegram&lt;/strong&gt; : &lt;a href=&#34;https://t.me/OswaldCobblepot1941&#34;&gt;@OswaldCobblepot1941&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💼 &lt;strong&gt;LinkedIn&lt;/strong&gt; : &lt;a href=&#34;https://www.linkedin.com/in/anthonydavid1462/&#34;&gt;anthonydavid1462&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💻 &lt;strong&gt;GitHub&lt;/strong&gt; : &lt;a href=&#34;https://github.com/DrC0okie&#34;&gt;AnthonyDavid3110&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     <item>
@@ -166,22 +176,6 @@
 &lt;li&gt;🫱 L&amp;rsquo;esprit d&amp;rsquo;équipe artistique&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;🔗 &lt;a href=&#34;http://www.ecmelodia.ch&#34;&gt;Site de Mélodia&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>À propos de moi</title>
-      <link>//localhost:1313/about/</link>
-      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/about/</guid>
-      <description>&lt;p&gt;👋 Bonjour,&lt;/p&gt;
-&lt;p&gt;Je suis &lt;strong&gt;Anthony David&lt;/strong&gt;, passionné par la &lt;strong&gt;cybersécurité&lt;/strong&gt;, la &lt;strong&gt;protection des données&lt;/strong&gt; et le &lt;strong&gt;développement de solutions fiables et sécurisées&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Formé en ingénierie informatique avec une spécialisation en cybersécurité, j’ai acquis des expériences concrètes dans des environnements techniques exigeants. Je m’oriente aujourd’hui vers un poste en &lt;strong&gt;sécurité informatique&lt;/strong&gt; (SOC, GRC, ingénierie ou offensive).&lt;/p&gt;
-&lt;p&gt;🎯 Je me distingue par :&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Ma rigueur et mon sens de l’analyse&lt;/li&gt;
-&lt;li&gt;Mon engagement pour l’éthique numérique&lt;/li&gt;
-&lt;li&gt;Ma capacité à apprendre rapidement et à m’adapter&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;💼 J’ai travaillé sur des sujets allant de l’analyse de logs SIEM à la conformité RGPD, en passant par le développement d’outils sécurisés en Python.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -5,18 +5,19 @@ theme: PaperMod
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
 
+
 # Configuration globale du thème
 params:
   env: production
   homeInfoParams: false
   ShowShareButtons: false
-  ShowReadingTime: false
+  ShowReadingTime: true
   ShowCodeCopyButtons: true
-  ShowToc: false
-  TocOpen: true
+  ShowToc: true
+  TocOpen: false
   ShowLanguageSwitcher: true
   displayFullLangName: true
- 
+
   # Favicons
   assets:
     favicon: "/favicon.ico"
@@ -24,32 +25,39 @@ params:
     favicon32x32: "/favicon-32x32.png"
     apple_touch_icon: "/apple-touch-icon.png"
     safari_pinned_tab: "/safari-pinned-tab.svg"
- 
-  # Profile mode global - URLs relatives (Hugo ajoutera le préfixe de langue)
+
+  # Mode profil (page d’accueil)
   profileMode:
     enabled: true
     title: "Anthony David"
-    subtitle: "Ingénieur en cybersécurité"
     imageUrl: "images/anthony_david.jpg"
     imageTitle: "Portrait d'Anthony David"
-    imageWidth: 200
-    imageHeight: 200
+    imageWidth: 250
+    imageHeight: 250
     buttons:
-      - name: "Compétences"
-        url: "skills"  # Sans slash initial = URL relative
-      - name: "Projets"
-        url: "projects"
-      - name: "Extra-professionnel"
-        url: "http://www.ecmelodia.ch"  # URL externe = complète
+      - name: "À propos de moi"
+        url: "about"
       - name: "Me contacter"
         url: "contact"
  
-  # Icônes sociales
+  # Icônes sociales (voir liste complète : https://github.com/adityatelange/hugo-PaperMod/wiki/Icons)
   socialIcons:
     - name: "LinkedIn"
       url: "https://www.linkedin.com/in/anthonydavid1462/"
     - name: "Github"
-      url: "https://github.com/AnthonyDavid3110"
+      url: "https://github.com/DrC0okie"
+    - name: "Telegram"
+      url: "https://t.me/OswaldCobblepot1941"
+    - name: "Signal"
+      url: "https://signal.me/#p/+41793879327"
+    - name: "TryHackMe"
+      url: "https://tryhackme.com/p/MrCobblepot1941"
+    - name: "RootMe"
+      url: "https://www.root-me.org/MrCobblepot"
+    - name: "HackTheBox"
+      url: "https://app.hackthebox.com/profile/158243"
+    - name: "CryptoHack"
+      url: "https://cryptohack.org/user/MrCobblepot/"
 
 # Configuration du cache
 caches:
@@ -58,41 +66,26 @@ caches:
   assets:
     dir: ":cacheDir/assets"
 
-# Configuration des langues
+
 # Configuration des langues
 languages:
   fr:
-    languageName: "🇫🇷"
+    languageName: "🇫🇷 Français"
     languageCode: "fr-FR"
     title: "Anthony David"
     weight: 1
     contentDir: "content/fr"
-    # ... (le reste de votre configuration fr)
     menu:
       main:
         - name: "À propos"
-          url: "/about/" # Ajoutez le slash initial et final
-          weight: 1
-        - name: "Blog"
-          url: "/blog"
-          weight: 2
-  en:
-    languageName: "🇬🇧"
-    languageCode: "en-US"
-    title: "Anthony David"
-    weight: 2
-    contentDir: "content/en"
-    # ... (le reste de votre configuration en)
-    menu:
-      main:
-        - name: "About"
           url: "/about/"
           weight: 1
-        - name: "Blog"
-          url: "/blog/"
+        - name: "Contact"
+          url: "/contact/"
           weight: 2
+
   en:
-    languageName: "🇬🇧"
+    languageName: "🇬🇧 English"
     languageCode: "en-US"
     title: "Anthony David"
     weight: 2
@@ -101,40 +94,29 @@ languages:
       profileMode:
         enabled: true
         title: "Anthony David"
-        subtitle: "Cybersecurity Engineer"
         imageUrl: "images/anthony_david.jpg"
         imageTitle: "Portrait of Anthony David"
         imageWidth: 200
         imageHeight: 200
         buttons:
-          - name: "Skills"
-            url: "skills"  # URLs relatives
-          - name: "Projects"
-            url: "projects"
-          - name: "Extra-professional"
-            url: "http://www.ecmelodia.ch"
+          - name: "About me"
+            url: "about"
           - name: "Contact me"
             url: "contact"
     menu:
       main:
         - name: "About"
-          url: "/en/about/"  # URL relative, Hugo ajoutera /en/
+          url: "/en/about/"
           weight: 1
-        - name: "Skills"
-          url: "/en/skills/"
-          weight: 2
-        - name: "Projects"
-          url: "projects"
-          weight: 3
         - name: "Contact"
-          url: "contact"
-          weight: 4
+          url: "/en/contact/"
+          weight: 2
 
 # Options Hugo
 canonifyURLs: true
 relativeURLs: false
 
-# Ignorer certains warnings
+# Markdown : autoriser HTML brut
 markup:
   goldmark:
     renderer:
