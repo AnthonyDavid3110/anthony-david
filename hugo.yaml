@@ -96,8 +96,8 @@ languages:
         title: "Anthony David"
         imageUrl: "images/anthony_david.jpg"
         imageTitle: "Portrait of Anthony David"
-        imageWidth: 200
-        imageHeight: 200
+        imageWidth: 250
+        imageHeight: 250
         buttons:
           - name: "About me"
             url: "about"
