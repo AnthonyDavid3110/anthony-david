@@ -1,100 +1,139 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Welcome on Anthony David</title><link>anthonydavid.ch/en/</link><description>Recent content in Welcome on Anthony David</description><generator>Hugo -- 0.147.9</generator><language>en-US</language><lastBuildDate>Tue, 08 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="anthonydavid.ch/en/index.xml" rel="self" type="application/rss+xml"/><item><title>About me</title><link>anthonydavid.ch/en/about/</link><pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate><guid>anthonydavid.ch/en/about/</guid><description>Cybersecurity engineer, passionate about systems defence, digital ethics and the development of reliable solutions. Available for an internship or junior position.</description></item><item><title>Contact Me</title><link>anthonydavid.ch/en/contact/</link><pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate><guid>anthonydavid.ch/en/contact/</guid><description>&lt;p>Do you have a question, a project, or a potential opportunity to discuss?&lt;br>
-Feel free to reach out, I’ll be happy to get back to you.&lt;/p>
-&lt;hr>
-&lt;h3 id="-contact-information">🔗 Contact Information&lt;/h3>
-&lt;ul>
-&lt;li>📧 &lt;strong>Email&lt;/strong>: &lt;a href="mailto:info@anthonydavid.ch">info@anthonydavid.ch&lt;/a>&lt;/li>
-&lt;li>💬 &lt;strong>Signal&lt;/strong> : &lt;a href="https://signal.me/#p/&amp;#43;41793879327">MrCobblepot.47&lt;/a>&lt;/li>
-&lt;li>📲 &lt;strong>Telegram&lt;/strong> : &lt;a href="https://t.me/OswaldCobblepot1941">@OswaldCobblepot1941&lt;/a>&lt;/li>
-&lt;li>💼 &lt;strong>LinkedIn&lt;/strong>: &lt;a href="https://www.linkedin.com/in/anthonydavid1462/">anthonydavid1462&lt;/a>&lt;/li>
-&lt;li>💻 &lt;strong>GitHub&lt;/strong>: &lt;a href="https://github.com/DrC0okie">DrC0okie&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Projects</title><link>anthonydavid.ch/en/projects/</link><pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate><guid>anthonydavid.ch/en/projects/</guid><description>&lt;p>Here are some of my notable projects:&lt;/p>
-&lt;h3 id="scanalyze---mobile-purchase-tracking-application">Scanalyze - Mobile Purchase Tracking Application&lt;/h3>
-&lt;p>&lt;strong>Summer University, HEIG-VD&lt;/strong> | August 2023&lt;/p>
-&lt;ul>
-&lt;li>Designed a cross-platform mobile application with a Python backend, JavaScript frontend, and Kotlin mobile application[cite: 10].&lt;/li>
-&lt;li>Integrated an OCR module and a fuzzy matching algorithm for intelligent receipt analysis[cite: 10].&lt;/li>
-&lt;li>Deployed on AWS[cite: 11].&lt;/li>
-&lt;li>Open-source project: &lt;a href="https://github.com/DrCookie/scanalyze">github.com/DrCookie/scanalyze&lt;/a> [cite: 11]&lt;/li>
-&lt;/ul></description></item><item><title>Skills</title><link>anthonydavid.ch/en/skills/</link><pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate><guid>anthonydavid.ch/en/skills/</guid><description>&lt;p>Here is an overview of my technical skills:&lt;/p>
-&lt;h3 id="languages-and-scripts">Languages and Scripts&lt;/h3>
-&lt;ul>
-&lt;li>Python&lt;/li>
-&lt;li>Rust&lt;/li>
-&lt;li>PowerShell&lt;/li>
-&lt;li>JavaScript&lt;/li>
-&lt;li>Bash&lt;/li>
-&lt;li>C&lt;/li>
-&lt;li>C++&lt;/li>
-&lt;li>Java&lt;/li>
-&lt;/ul>
-&lt;h3 id="systems-and-networks-cite-4">Systems and Networks [cite: 4]&lt;/h3>
-&lt;ul>
-&lt;li>Linux&lt;/li>
-&lt;li>Windows&lt;/li>
-&lt;li>Android&lt;/li>
-&lt;li>Virtualization&lt;/li>
-&lt;li>SQL&lt;/li>
-&lt;li>Containers&lt;/li>
-&lt;li>Cloud (AWS, Azure)&lt;/li>
-&lt;li>VPN&lt;/li>
-&lt;li>Firewalls&lt;/li>
-&lt;li>IDS IPS (Intrusion Detection/Prevention Systems)&lt;/li>
-&lt;li>Logging&lt;/li>
-&lt;/ul>
-&lt;h3 id="security-engineering">Security Engineering&lt;/h3>
-&lt;ul>
-&lt;li>Authentication (SSO, MFA)&lt;/li>
-&lt;li>Access Management and Authorization&lt;/li>
-&lt;li>Password Management&lt;/li>
-&lt;li>SSL/TLS&lt;/li>
-&lt;li>PKI (Public Key Infrastructure)&lt;/li>
-&lt;li>Input Validation&lt;/li>
-&lt;/ul>
-&lt;h3 id="threat-detection-and-response">Threat Detection and Response&lt;/h3>
-&lt;ul>
-&lt;li>Threat Detection&lt;/li>
-&lt;li>SIEM (Security Information and Event Management)&lt;/li>
-&lt;li>EDR (Endpoint Detection and Response)&lt;/li>
-&lt;li>NDR (Network Detection and Response)&lt;/li>
-&lt;li>SOAR (Security Orchestration, Automation and Response)&lt;/li>
-&lt;li>SOC (Security Operations Center)&lt;/li>
-&lt;li>IoC (Indicators of Compromise)&lt;/li>
-&lt;li>TTPs (Tactics, Techniques, and Procedures)&lt;/li>
-&lt;li>OSINT (Open-Source Intelligence)&lt;/li>
-&lt;/ul>
-&lt;h3 id="reverse-engineering">Reverse Engineering&lt;/h3>
-&lt;ul>
-&lt;li>ROP (Return-Oriented Programming)&lt;/li>
-&lt;li>Buffer Overflow&lt;/li>
-&lt;li>Exploit Development&lt;/li>
-&lt;/ul>
-&lt;h3 id="cryptography">Cryptography&lt;/h3>
-&lt;ul>
-&lt;li>RSA&lt;/li>
-&lt;li>AES&lt;/li>
-&lt;li>Chacha20&lt;/li>
-&lt;li>ECDSA&lt;/li>
-&lt;li>EdDSA&lt;/li>
-&lt;li>PKI (Public Key Infrastructure)&lt;/li>
-&lt;li>Diffie-Hellman&lt;/li>
-&lt;/ul>
-&lt;h3 id="governance-risk-and-compliance-grc">Governance, Risk, and Compliance (GRC)&lt;/h3>
-&lt;ul>
-&lt;li>Risk Analysis&lt;/li>
-&lt;li>GRC&lt;/li>
-&lt;/ul>
-&lt;h3 id="tools-and-frameworks">Tools and Frameworks&lt;/h3>
-&lt;ul>
-&lt;li>Ghidra&lt;/li>
-&lt;li>Shodan&lt;/li>
-&lt;li>Maltego&lt;/li>
-&lt;li>SageMath&lt;/li>
-&lt;/ul>
-&lt;h3 id="technical-writing-and-collaboration">Technical Writing and Collaboration&lt;/h3>
-&lt;ul>
-&lt;li>ETEX&lt;/li>
-&lt;li>Markdown&lt;/li>
-&lt;li>Typst&lt;/li>
-&lt;li>Git&lt;/li>
-&lt;/ul></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Welcome on Anthony David</title>
+    <link>//localhost:1313/en/</link>
+    <description>Recent content in Welcome on Anthony David</description>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 08 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>//localhost:1313/en/about/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/about/</guid>
+      <description>Cybersecurity engineer, passionate about systems defence, digital ethics and the development of reliable solutions. Available for an internship or junior position.</description>
+    </item>
+    <item>
+      <title>Contact Me</title>
+      <link>//localhost:1313/en/contact/</link>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/contact/</guid>
+      <description>&lt;p&gt;Do you have a question, a project, or a potential opportunity to discuss?&lt;br&gt;
+Feel free to reach out, I’ll be happy to get back to you.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-contact-information&#34;&gt;🔗 Contact Information&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;📧 &lt;strong&gt;Email&lt;/strong&gt;: &lt;a href=&#34;mailto:info@anthonydavid.ch&#34;&gt;info@anthonydavid.ch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;strong&gt;Signal&lt;/strong&gt; : &lt;a href=&#34;https://signal.me/#eu/CEdRR6gScVeVwmRfz8eHpJZopwFCnU5g6HnTG-edjxy2f87-qZ5Ji6Hb0lIJZWIZ&#34;&gt;MrCobblepot.47&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📲 &lt;strong&gt;Telegram&lt;/strong&gt; : &lt;a href=&#34;https://t.me/OswaldCobblepot1941&#34;&gt;@OswaldCobblepot1941&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💼 &lt;strong&gt;LinkedIn&lt;/strong&gt;: &lt;a href=&#34;https://www.linkedin.com/in/anthonydavid1462/&#34;&gt;anthonydavid1462&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💻 &lt;strong&gt;GitHub&lt;/strong&gt;: &lt;a href=&#34;https://github.com/DrC0okie&#34;&gt;DrC0okie&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>//localhost:1313/en/projects/</link>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/projects/</guid>
+      <description>&lt;p&gt;Here are some of my notable projects:&lt;/p&gt;
+&lt;h3 id=&#34;scanalyze---mobile-purchase-tracking-application&#34;&gt;Scanalyze - Mobile Purchase Tracking Application&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Summer University, HEIG-VD&lt;/strong&gt; | August 2023&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Designed a cross-platform mobile application with a Python backend, JavaScript frontend, and Kotlin mobile application[cite: 10].&lt;/li&gt;
+&lt;li&gt;Integrated an OCR module and a fuzzy matching algorithm for intelligent receipt analysis[cite: 10].&lt;/li&gt;
+&lt;li&gt;Deployed on AWS[cite: 11].&lt;/li&gt;
+&lt;li&gt;Open-source project: &lt;a href=&#34;https://github.com/DrCookie/scanalyze&#34;&gt;github.com/DrCookie/scanalyze&lt;/a&gt; [cite: 11]&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Skills</title>
+      <link>//localhost:1313/en/skills/</link>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/skills/</guid>
+      <description>&lt;p&gt;Here is an overview of my technical skills:&lt;/p&gt;
+&lt;h3 id=&#34;languages-and-scripts&#34;&gt;Languages and Scripts&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;li&gt;Rust&lt;/li&gt;
+&lt;li&gt;PowerShell&lt;/li&gt;
+&lt;li&gt;JavaScript&lt;/li&gt;
+&lt;li&gt;Bash&lt;/li&gt;
+&lt;li&gt;C&lt;/li&gt;
+&lt;li&gt;C++&lt;/li&gt;
+&lt;li&gt;Java&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;systems-and-networks-cite-4&#34;&gt;Systems and Networks [cite: 4]&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Linux&lt;/li&gt;
+&lt;li&gt;Windows&lt;/li&gt;
+&lt;li&gt;Android&lt;/li&gt;
+&lt;li&gt;Virtualization&lt;/li&gt;
+&lt;li&gt;SQL&lt;/li&gt;
+&lt;li&gt;Containers&lt;/li&gt;
+&lt;li&gt;Cloud (AWS, Azure)&lt;/li&gt;
+&lt;li&gt;VPN&lt;/li&gt;
+&lt;li&gt;Firewalls&lt;/li&gt;
+&lt;li&gt;IDS IPS (Intrusion Detection/Prevention Systems)&lt;/li&gt;
+&lt;li&gt;Logging&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;security-engineering&#34;&gt;Security Engineering&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Authentication (SSO, MFA)&lt;/li&gt;
+&lt;li&gt;Access Management and Authorization&lt;/li&gt;
+&lt;li&gt;Password Management&lt;/li&gt;
+&lt;li&gt;SSL/TLS&lt;/li&gt;
+&lt;li&gt;PKI (Public Key Infrastructure)&lt;/li&gt;
+&lt;li&gt;Input Validation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;threat-detection-and-response&#34;&gt;Threat Detection and Response&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Threat Detection&lt;/li&gt;
+&lt;li&gt;SIEM (Security Information and Event Management)&lt;/li&gt;
+&lt;li&gt;EDR (Endpoint Detection and Response)&lt;/li&gt;
+&lt;li&gt;NDR (Network Detection and Response)&lt;/li&gt;
+&lt;li&gt;SOAR (Security Orchestration, Automation and Response)&lt;/li&gt;
+&lt;li&gt;SOC (Security Operations Center)&lt;/li&gt;
+&lt;li&gt;IoC (Indicators of Compromise)&lt;/li&gt;
+&lt;li&gt;TTPs (Tactics, Techniques, and Procedures)&lt;/li&gt;
+&lt;li&gt;OSINT (Open-Source Intelligence)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;reverse-engineering&#34;&gt;Reverse Engineering&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;ROP (Return-Oriented Programming)&lt;/li&gt;
+&lt;li&gt;Buffer Overflow&lt;/li&gt;
+&lt;li&gt;Exploit Development&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;cryptography&#34;&gt;Cryptography&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;RSA&lt;/li&gt;
+&lt;li&gt;AES&lt;/li&gt;
+&lt;li&gt;Chacha20&lt;/li&gt;
+&lt;li&gt;ECDSA&lt;/li&gt;
+&lt;li&gt;EdDSA&lt;/li&gt;
+&lt;li&gt;PKI (Public Key Infrastructure)&lt;/li&gt;
+&lt;li&gt;Diffie-Hellman&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;governance-risk-and-compliance-grc&#34;&gt;Governance, Risk, and Compliance (GRC)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Risk Analysis&lt;/li&gt;
+&lt;li&gt;GRC&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tools-and-frameworks&#34;&gt;Tools and Frameworks&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Ghidra&lt;/li&gt;
+&lt;li&gt;Shodan&lt;/li&gt;
+&lt;li&gt;Maltego&lt;/li&gt;
+&lt;li&gt;SageMath&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;technical-writing-and-collaboration&#34;&gt;Technical Writing and Collaboration&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;ETEX&lt;/li&gt;
+&lt;li&gt;Markdown&lt;/li&gt;
+&lt;li&gt;Typst&lt;/li&gt;
+&lt;li&gt;Git&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
