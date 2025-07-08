@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anthony David</title><link>anthonydavid.ch/</link><description>Recent content on Anthony David</description><generator>Hugo</generator><language>fr-FR</language><lastBuildDate>Tue, 08 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="anthonydavid.ch/index.xml" rel="self" type="application/rss+xml"/><item><title>À propos de moi</title><link>anthonydavid.ch/about/</link><pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate><guid>anthonydavid.ch/about/</guid><description>Ingénieur en cybersécurité, passionné par la défense des systèmes, l&amp;rsquo;éthique numérique et le développement de solutions fiables. Disponible pour un stage ou un poste junior.</description></item><item><title>Blog</title><link>anthonydavid.ch/blog/</link><pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate><guid>anthonydavid.ch/blog/</guid><description/></item><item><title>Compétences</title><link>anthonydavid.ch/skills/</link><pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate><guid>anthonydavid.ch/skills/</guid><description>&lt;p>Voici un aperçu de mes compétences techniques :&lt;/p>
+&lt;h3 id="langages-et-scripts">Langages et Scripts&lt;/h3>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Rust&lt;/li>
+&lt;li>PowerShell&lt;/li>
+&lt;li>JavaScript&lt;/li>
+&lt;li>Bash&lt;/li>
+&lt;li>C&lt;/li>
+&lt;li>C++&lt;/li>
+&lt;li>Java&lt;/li>
+&lt;/ul>
+&lt;h3 id="systèmes-et-réseaux-cite-4">Systèmes et Réseaux [cite: 4]&lt;/h3>
+&lt;ul>
+&lt;li>Linux&lt;/li>
+&lt;li>Windows&lt;/li>
+&lt;li>Android&lt;/li>
+&lt;li>Virtualisation&lt;/li>
+&lt;li>SQL&lt;/li>
+&lt;li>Conteneurs&lt;/li>
+&lt;li>Cloud (AWS, Azure)&lt;/li>
+&lt;li>VPN&lt;/li>
+&lt;li>Pare-feux (Firewalls)&lt;/li>
+&lt;li>IDS IPS (Intrusion Detection/Prevention Systems)&lt;/li>
+&lt;li>Journalisation (Logging)&lt;/li>
+&lt;/ul>
+&lt;h3 id="ingénierie-de-la-sécurité">Ingénierie de la Sécurité&lt;/h3>
+&lt;ul>
+&lt;li>Authentification (SSO, MFA)&lt;/li>
+&lt;li>Gestion des accès et Autorisation&lt;/li>
+&lt;li>Gestion des mots de passe&lt;/li>
+&lt;li>SSL/TLS&lt;/li>
+&lt;li>PKI (Public Key Infrastructure)&lt;/li>
+&lt;li>Validation des entrées&lt;/li>
+&lt;/ul>
+&lt;h3 id="détection-et-réponse-aux-menaces">Détection et Réponse aux Menaces&lt;/h3>
+&lt;ul>
+&lt;li>Détection de menaces&lt;/li>
+&lt;li>SIEM (Security Information and Event Management)&lt;/li>
+&lt;li>EDR (Endpoint Detection and Response)&lt;/li>
+&lt;li>NDR (Network Detection and Response)&lt;/li>
+&lt;li>SOAR (Security Orchestration, Automation and Response)&lt;/li>
+&lt;li>SOC (Security Operations Center)&lt;/li>
+&lt;li>IoC (Indicators of Compromise)&lt;/li>
+&lt;li>TTPs (Tactics, Techniques, and Procedures)&lt;/li>
+&lt;li>OSINT (Open-Source Intelligence)&lt;/li>
+&lt;/ul>
+&lt;h3 id="reverse-engineering">Reverse Engineering&lt;/h3>
+&lt;ul>
+&lt;li>ROP (Return-Oriented Programming)&lt;/li>
+&lt;li>Buffer Overflow&lt;/li>
+&lt;li>Développement d&amp;rsquo;exploits&lt;/li>
+&lt;/ul>
+&lt;h3 id="cryptographie">Cryptographie&lt;/h3>
+&lt;ul>
+&lt;li>RSA&lt;/li>
+&lt;li>AES&lt;/li>
+&lt;li>Chacha20&lt;/li>
+&lt;li>ECDSA&lt;/li>
+&lt;li>EdDSA&lt;/li>
+&lt;li>PKI (Public Key Infrastructure)&lt;/li>
+&lt;li>Diffie-Hellman&lt;/li>
+&lt;/ul>
+&lt;h3 id="gouvernance-risques-et-conformité-grc">Gouvernance, Risques et Conformité (GRC)&lt;/h3>
+&lt;ul>
+&lt;li>Analyse des risques&lt;/li>
+&lt;li>GRC&lt;/li>
+&lt;/ul>
+&lt;h3 id="outils-et-frameworks">Outils et Frameworks&lt;/h3>
+&lt;ul>
+&lt;li>Ghidra&lt;/li>
+&lt;li>Shodan&lt;/li>
+&lt;li>Maltego&lt;/li>
+&lt;li>SageMath&lt;/li>
+&lt;/ul>
+&lt;h3 id="rédaction-technique-et-collaboration">Rédaction Technique et Collaboration&lt;/h3>
+&lt;ul>
+&lt;li>Latex&lt;/li>
+&lt;li>Markdown&lt;/li>
+&lt;li>Typst&lt;/li>
+&lt;li>Git&lt;/li>
+&lt;/ul></description></item><item><title>Me contacter</title><link>anthonydavid.ch/contact/</link><pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate><guid>anthonydavid.ch/contact/</guid><description>&lt;p>Vous avez une question, une opportunité à proposer, ou simplement envie d’échanger ?&lt;br>
+N&amp;rsquo;hésitez pas à me contacter, je vous répondrai avec plaisir.&lt;/p>
+&lt;hr>
+&lt;h3 id="-coordonnées">🔗 Coordonnées&lt;/h3>
+&lt;ul>
+&lt;li>📧 &lt;strong>Email&lt;/strong> : &lt;a href="mailto:info@anthonydavid.ch">info@anthonydavid.ch&lt;/a>&lt;/li>
+&lt;li>💬 &lt;strong>Signal&lt;/strong> : &lt;a href="https://signal.me/#p/&amp;#43;41793879327">MrCobblepot.47&lt;/a>&lt;/li>
+&lt;li>📲 &lt;strong>Telegram&lt;/strong> : &lt;a href="https://t.me/OswaldCobblepot1941">@OswaldCobblepot1941&lt;/a>&lt;/li>
+&lt;li>💼 &lt;strong>LinkedIn&lt;/strong> : &lt;a href="https://www.linkedin.com/in/anthonydavid1462/">anthonydavid1462&lt;/a>&lt;/li>
+&lt;li>💻 &lt;strong>GitHub&lt;/strong> : &lt;a href="https://github.com/DrC0okie">AnthonyDavid3110&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Projets</title><link>anthonydavid.ch/projects/</link><pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate><guid>anthonydavid.ch/projects/</guid><description>&lt;p>Voici quelques-uns de mes projets notables :&lt;/p>
+&lt;h3 id="scanalyze---application-mobile-de-suivi-des-achats">Scanalyze - Application mobile de suivi des achats&lt;/h3>
+&lt;p>&lt;strong>Université d&amp;rsquo;été, HEIG-VD&lt;/strong> | Août 2023&lt;/p>
+&lt;ul>
+&lt;li>Conception d&amp;rsquo;une application mobile multi-plateforme avec backend Python, frontend JavaScript et application mobile Kotlin.&lt;/li>
+&lt;li>Intégration d&amp;rsquo;un module OCR et d&amp;rsquo;un algorithme de fuzzy matching pour l&amp;rsquo;analyse intelligente de tickets de caisse.&lt;/li>
+&lt;li>Déploiement sur AWS[cite: 11].&lt;/li>
+&lt;li>Projet open source : &lt;a href="https://github.com/DrCookie/scanalyze">github.com/DrCookie/scanalyze&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Activités extra-professionnelles</title><link>anthonydavid.ch/extra/</link><pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate><guid>anthonydavid.ch/extra/</guid><description>&lt;p>Au-delà de mon parcours académique et professionnel, je consacre du temps à plusieurs activités qui renforcent mon équilibre personnel et enrichissent mes compétences humaines et techniques.&lt;/p>
+&lt;hr>
+&lt;h2 id="-musicien-à-lensemble-de-cuivres-mélodia">🎺 Musicien à l&amp;rsquo;ensemble de cuivres Mélodia&lt;/h2>
+&lt;p>Depuis plusieurs années, je joue au sein de l&amp;rsquo;&lt;strong>Ensemble de cuivres Mélodia&lt;/strong>, une formation musicale dynamique en Suisse romande. Cette activité me permet de cultiver :&lt;/p>
+&lt;ul>
+&lt;li>🎵 La discipline et la rigueur (répétitions régulières)&lt;/li>
+&lt;li>👂 L’écoute collective et la synchronisation&lt;/li>
+&lt;li>🫱 L&amp;rsquo;esprit d&amp;rsquo;équipe artistique&lt;/li>
+&lt;/ul>
+&lt;p>🔗 &lt;a href="http://www.ecmelodia.ch">Site de Mélodia&lt;/a>&lt;/p></description></item></channel></rss>

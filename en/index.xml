@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Welcome on Anthony David</title><link>anthonydavid.ch/en/</link><description>Recent content in Welcome on Anthony David</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Tue, 08 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="anthonydavid.ch/en/index.xml" rel="self" type="application/rss+xml"/><item><title>About me</title><link>anthonydavid.ch/en/about/</link><pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate><guid>anthonydavid.ch/en/about/</guid><description>Cybersecurity engineer, passionate about systems defence, digital ethics and the development of reliable solutions. Available for an internship or junior position.</description></item><item><title>Contact Me</title><link>anthonydavid.ch/en/contact/</link><pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate><guid>anthonydavid.ch/en/contact/</guid><description>&lt;p>Do you have a question, a project, or a potential opportunity to discuss?&lt;br>
+Feel free to reach out, I’ll be happy to get back to you.&lt;/p>
+&lt;hr>
+&lt;h3 id="-contact-information">🔗 Contact Information&lt;/h3>
+&lt;ul>
+&lt;li>📧 &lt;strong>Email&lt;/strong>: &lt;a href="mailto:info@anthonydavid.ch">info@anthonydavid.ch&lt;/a>&lt;/li>
+&lt;li>💬 &lt;strong>Signal&lt;/strong> : &lt;a href="https://signal.me/#p/&amp;#43;41793879327">MrCobblepot.47&lt;/a>&lt;/li>
+&lt;li>📲 &lt;strong>Telegram&lt;/strong> : &lt;a href="https://t.me/OswaldCobblepot1941">@OswaldCobblepot1941&lt;/a>&lt;/li>
+&lt;li>💼 &lt;strong>LinkedIn&lt;/strong>: &lt;a href="https://www.linkedin.com/in/anthonydavid1462/">anthonydavid1462&lt;/a>&lt;/li>
+&lt;li>💻 &lt;strong>GitHub&lt;/strong>: &lt;a href="https://github.com/DrC0okie">DrC0okie&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Projects</title><link>anthonydavid.ch/en/projects/</link><pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate><guid>anthonydavid.ch/en/projects/</guid><description>&lt;p>Here are some of my notable projects:&lt;/p>
+&lt;h3 id="scanalyze---mobile-purchase-tracking-application">Scanalyze - Mobile Purchase Tracking Application&lt;/h3>
+&lt;p>&lt;strong>Summer University, HEIG-VD&lt;/strong> | August 2023&lt;/p>
+&lt;ul>
+&lt;li>Designed a cross-platform mobile application with a Python backend, JavaScript frontend, and Kotlin mobile application[cite: 10].&lt;/li>
+&lt;li>Integrated an OCR module and a fuzzy matching algorithm for intelligent receipt analysis[cite: 10].&lt;/li>
+&lt;li>Deployed on AWS[cite: 11].&lt;/li>
+&lt;li>Open-source project: &lt;a href="https://github.com/DrCookie/scanalyze">github.com/DrCookie/scanalyze&lt;/a> [cite: 11]&lt;/li>
+&lt;/ul></description></item><item><title>Skills</title><link>anthonydavid.ch/en/skills/</link><pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate><guid>anthonydavid.ch/en/skills/</guid><description>&lt;p>Here is an overview of my technical skills:&lt;/p>
+&lt;h3 id="languages-and-scripts">Languages and Scripts&lt;/h3>
+&lt;ul>
+&lt;li>Python&lt;/li>
+&lt;li>Rust&lt;/li>
+&lt;li>PowerShell&lt;/li>
+&lt;li>JavaScript&lt;/li>
+&lt;li>Bash&lt;/li>
+&lt;li>C&lt;/li>
+&lt;li>C++&lt;/li>
+&lt;li>Java&lt;/li>
+&lt;/ul>
+&lt;h3 id="systems-and-networks-cite-4">Systems and Networks [cite: 4]&lt;/h3>
+&lt;ul>
+&lt;li>Linux&lt;/li>
+&lt;li>Windows&lt;/li>
+&lt;li>Android&lt;/li>
+&lt;li>Virtualization&lt;/li>
+&lt;li>SQL&lt;/li>
+&lt;li>Containers&lt;/li>
+&lt;li>Cloud (AWS, Azure)&lt;/li>
+&lt;li>VPN&lt;/li>
+&lt;li>Firewalls&lt;/li>
+&lt;li>IDS IPS (Intrusion Detection/Prevention Systems)&lt;/li>
+&lt;li>Logging&lt;/li>
+&lt;/ul>
+&lt;h3 id="security-engineering">Security Engineering&lt;/h3>
+&lt;ul>
+&lt;li>Authentication (SSO, MFA)&lt;/li>
+&lt;li>Access Management and Authorization&lt;/li>
+&lt;li>Password Management&lt;/li>
+&lt;li>SSL/TLS&lt;/li>
+&lt;li>PKI (Public Key Infrastructure)&lt;/li>
+&lt;li>Input Validation&lt;/li>
+&lt;/ul>
+&lt;h3 id="threat-detection-and-response">Threat Detection and Response&lt;/h3>
+&lt;ul>
+&lt;li>Threat Detection&lt;/li>
+&lt;li>SIEM (Security Information and Event Management)&lt;/li>
+&lt;li>EDR (Endpoint Detection and Response)&lt;/li>
+&lt;li>NDR (Network Detection and Response)&lt;/li>
+&lt;li>SOAR (Security Orchestration, Automation and Response)&lt;/li>
+&lt;li>SOC (Security Operations Center)&lt;/li>
+&lt;li>IoC (Indicators of Compromise)&lt;/li>
+&lt;li>TTPs (Tactics, Techniques, and Procedures)&lt;/li>
+&lt;li>OSINT (Open-Source Intelligence)&lt;/li>
+&lt;/ul>
+&lt;h3 id="reverse-engineering">Reverse Engineering&lt;/h3>
+&lt;ul>
+&lt;li>ROP (Return-Oriented Programming)&lt;/li>
+&lt;li>Buffer Overflow&lt;/li>
+&lt;li>Exploit Development&lt;/li>
+&lt;/ul>
+&lt;h3 id="cryptography">Cryptography&lt;/h3>
+&lt;ul>
+&lt;li>RSA&lt;/li>
+&lt;li>AES&lt;/li>
+&lt;li>Chacha20&lt;/li>
+&lt;li>ECDSA&lt;/li>
+&lt;li>EdDSA&lt;/li>
+&lt;li>PKI (Public Key Infrastructure)&lt;/li>
+&lt;li>Diffie-Hellman&lt;/li>
+&lt;/ul>
+&lt;h3 id="governance-risk-and-compliance-grc">Governance, Risk, and Compliance (GRC)&lt;/h3>
+&lt;ul>
+&lt;li>Risk Analysis&lt;/li>
+&lt;li>GRC&lt;/li>
+&lt;/ul>
+&lt;h3 id="tools-and-frameworks">Tools and Frameworks&lt;/h3>
+&lt;ul>
+&lt;li>Ghidra&lt;/li>
+&lt;li>Shodan&lt;/li>
+&lt;li>Maltego&lt;/li>
+&lt;li>SageMath&lt;/li>
+&lt;/ul>
+&lt;h3 id="technical-writing-and-collaboration">Technical Writing and Collaboration&lt;/h3>
+&lt;ul>
+&lt;li>ETEX&lt;/li>
+&lt;li>Markdown&lt;/li>
+&lt;li>Typst&lt;/li>
+&lt;li>Git&lt;/li>
+&lt;/ul></description></item></channel></rss>
