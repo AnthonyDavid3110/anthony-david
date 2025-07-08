@@ -1,36 +1,39 @@
 #!/bin/bash
 
-# Arrêt si erreur
+# Stop on error
 set -e
 
-# Variables
-BRANCH=gh-pages
-BUILD_DIR=public
-TMP_DIR=deploy-tmp
+# Configuration
+BRANCH="gh-pages"
+BUILD_DIR="public"
+TMP_DIR="deploy-tmp"
+COMMIT_MSG="Déploiement du site $(date '+%Y-%m-%d %H:%M:%S')"
 
-# Génère le site avec Hugo
+echo "📦 Génération du site..."
 hugo --minify
 
-# Copie le contenu généré dans un dossier temporaire
+echo "📁 Sauvegarde temporaire..."
 rm -rf $TMP_DIR
 cp -r $BUILD_DIR $TMP_DIR
 
-# Bascule sur la branche gh-pages
+echo "🔀 Passage à la branche $BRANCH..."
 git checkout $BRANCH
 
-# Supprime tout sauf .git (important pour ne pas perdre le repo)
-find . ! -name '.git' ! -name '.' -exec rm -rf {} +
+echo "🧹 Nettoyage de l'ancien site..."
+find . -mindepth 1 ! -regex '^./\.git\(/.*\)?' -delete
 
-# Copie les fichiers générés depuis le dossier temporaire
+echo "📤 Copie du nouveau site..."
 cp -r $TMP_DIR/* .
 
-# Ajoute et pousse
+echo "✅ Commit et push..."
 git add .
-git commit -m "Déploiement du site $(date '+%Y-%m-%d %H:%M:%S')"
+git commit -m "$COMMIT_MSG"
 git push origin $BRANCH
 
-# Nettoyage
+echo "🧽 Nettoyage temporaire..."
 rm -rf $TMP_DIR
 
-# Retour sur main pour continuer à développer
+echo "↩️ Retour sur la branche main..."
 git checkout main
+
+echo "🚀 Déploiement terminé avec succès !"
